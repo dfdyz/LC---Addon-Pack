@@ -1,0 +1,2114 @@
+{
+  "test1_a1": {
+    "sounds": ["lcaddon:test1/a1"],
+    "subtitle": "lcaddon.sounds.test1_a1"
+  },
+  "test1_as1": {
+    "sounds": ["lcaddon:test1/as1"],
+    "subtitle": "lcaddon.sounds.test1_as1"
+  },
+  "test1_b1": {
+    "sounds": ["lcaddon:test1/b1"],
+    "subtitle": "lcaddon.sounds.test1_b1"
+  },
+  "test1_c1": {
+    "sounds": ["lcaddon:test1/c1"],
+    "subtitle": "lcaddon.sounds.test1_c1"
+  },
+  "test1_cs1": {
+    "sounds": ["lcaddon:test1/cs1"],
+    "subtitle": "lcaddon.sounds.test1_cs1"
+  },
+  "test1_d1": {
+    "sounds": ["lcaddon:test1/d1"],
+    "subtitle": "lcaddon.sounds.test1_d1"
+  },
+  "test1_ds1": {
+    "sounds": ["lcaddon:test1/ds1"],
+    "subtitle": "lcaddon.sounds.test1_ds1"
+  },
+  "test1_e1": {
+    "sounds": ["lcaddon:test1/e1"],
+    "subtitle": "lcaddon.sounds.test1_e1"
+  },
+  "test1_f1": {
+    "sounds": ["lcaddon:test1/f1"],
+    "subtitle": "lcaddon.sounds.test1_f1"
+  },
+  "test1_fs1": {
+    "sounds": ["lcaddon:test1/fs1"],
+    "subtitle": "lcaddon.sounds.test1_fs1"
+  },
+  "test1_g1": {
+    "sounds": ["lcaddon:test1/g1"],
+    "subtitle": "lcaddon.sounds.test1_g1"
+  },
+  "test1_gs1": {
+    "sounds": ["lcaddon:test1/gs1"],
+    "subtitle": "lcaddon.sounds.test1_gs1"
+  },
+  "test1_a2": {
+    "sounds": ["lcaddon:test1/a2"],
+    "subtitle": "lcaddon.sounds.test1_a2"
+  },
+  "test1_as2": {
+    "sounds": ["lcaddon:test1/as2"],
+    "subtitle": "lcaddon.sounds.test1_as2"
+  },
+  "test1_b2": {
+    "sounds": ["lcaddon:test1/b2"],
+    "subtitle": "lcaddon.sounds.test1_b2"
+  },
+  "test1_c2": {
+    "sounds": ["lcaddon:test1/c2"],
+    "subtitle": "lcaddon.sounds.test1_c2"
+  },
+  "test1_cs2": {
+    "sounds": ["lcaddon:test1/cs2"],
+    "subtitle": "lcaddon.sounds.test1_cs2"
+  },
+  "test1_d2": {
+    "sounds": ["lcaddon:test1/d2"],
+    "subtitle": "lcaddon.sounds.test1_d2"
+  },
+  "test1_ds2": {
+    "sounds": ["lcaddon:test1/ds2"],
+    "subtitle": "lcaddon.sounds.test1_ds2"
+  },
+  "test1_e2": {
+    "sounds": ["lcaddon:test1/e2"],
+    "subtitle": "lcaddon.sounds.test1_e2"
+  },
+  "test1_f2": {
+    "sounds": ["lcaddon:test1/f2"],
+    "subtitle": "lcaddon.sounds.test1_f2"
+  },
+  "test1_fs2": {
+    "sounds": ["lcaddon:test1/fs2"],
+    "subtitle": "lcaddon.sounds.test1_fs2"
+  },
+  "test1_g2": {
+    "sounds": ["lcaddon:test1/g2"],
+    "subtitle": "lcaddon.sounds.test1_g2"
+  },
+  "test1_gs2": {
+    "sounds": ["lcaddon:test1/gs2"],
+    "subtitle": "lcaddon.sounds.test1_gs2"
+  },
+  "test1_a3": {
+    "sounds": ["lcaddon:test1/a3"],
+    "subtitle": "lcaddon.sounds.test1_a3"
+  },
+  "test1_as3": {
+    "sounds": ["lcaddon:test1/as3"],
+    "subtitle": "lcaddon.sounds.test1_as3"
+  },
+  "test1_b3": {
+    "sounds": ["lcaddon:test1/b3"],
+    "subtitle": "lcaddon.sounds.test1_b3"
+  },
+  "test1_c3": {
+    "sounds": ["lcaddon:test1/c3"],
+    "subtitle": "lcaddon.sounds.test1_c3"
+  },
+  "test1_cs3": {
+    "sounds": ["lcaddon:test1/cs3"],
+    "subtitle": "lcaddon.sounds.test1_cs3"
+  },
+  "test1_d3": {
+    "sounds": ["lcaddon:test1/d3"],
+    "subtitle": "lcaddon.sounds.test1_d3"
+  },
+  "test1_ds3": {
+    "sounds": ["lcaddon:test1/ds3"],
+    "subtitle": "lcaddon.sounds.test1_ds3"
+  },
+  "test1_e3": {
+    "sounds": ["lcaddon:test1/e3"],
+    "subtitle": "lcaddon.sounds.test1_e3"
+  },
+  "test1_f3": {
+    "sounds": ["lcaddon:test1/f3"],
+    "subtitle": "lcaddon.sounds.test1_f3"
+  },
+  "test1_fs3": {
+    "sounds": ["lcaddon:test1/fs3"],
+    "subtitle": "lcaddon.sounds.test1_fs3"
+  },
+  "test1_g3": {
+    "sounds": ["lcaddon:test1/g3"],
+    "subtitle": "lcaddon.sounds.test1_g3"
+  },
+  "test1_gs3": {
+    "sounds": ["lcaddon:test1/gs3"],
+    "subtitle": "lcaddon.sounds.test1_gs3"
+  },
+  "test1_a4": {
+    "sounds": ["lcaddon:test1/a4"],
+    "subtitle": "lcaddon.sounds.test1_a4"
+  },
+  "test1_as4": {
+    "sounds": ["lcaddon:test1/as4"],
+    "subtitle": "lcaddon.sounds.test1_as4"
+  },
+  "test1_b4": {
+    "sounds": ["lcaddon:test1/b4"],
+    "subtitle": "lcaddon.sounds.test1_b4"
+  },
+  "test1_c4": {
+    "sounds": ["lcaddon:test1/c4"],
+    "subtitle": "lcaddon.sounds.test1_c4"
+  },
+  "test1_cs4": {
+    "sounds": ["lcaddon:test1/cs4"],
+    "subtitle": "lcaddon.sounds.test1_cs4"
+  },
+  "test1_d4": {
+    "sounds": ["lcaddon:test1/d4"],
+    "subtitle": "lcaddon.sounds.test1_d4"
+  },
+  "test1_ds4": {
+    "sounds": ["lcaddon:test1/ds4"],
+    "subtitle": "lcaddon.sounds.test1_ds4"
+  },
+  "test1_e4": {
+    "sounds": ["lcaddon:test1/e4"],
+    "subtitle": "lcaddon.sounds.test1_e4"
+  },
+  "test1_f4": {
+    "sounds": ["lcaddon:test1/f4"],
+    "subtitle": "lcaddon.sounds.test1_f4"
+  },
+  "test1_fs4": {
+    "sounds": ["lcaddon:test1/fs4"],
+    "subtitle": "lcaddon.sounds.test1_fs4"
+  },
+  "test1_g4": {
+    "sounds": ["lcaddon:test1/g4"],
+    "subtitle": "lcaddon.sounds.test1_g4"
+  },
+  "test1_gs4": {
+    "sounds": ["lcaddon:test1/gs4"],
+    "subtitle": "lcaddon.sounds.test1_gs4"
+  },
+  "test1_a5": {
+    "sounds": ["lcaddon:test1/a5"],
+    "subtitle": "lcaddon.sounds.test1_a5"
+  },
+  "test1_as5": {
+    "sounds": ["lcaddon:test1/as5"],
+    "subtitle": "lcaddon.sounds.test1_as5"
+  },
+  "test1_b5": {
+    "sounds": ["lcaddon:test1/b5"],
+    "subtitle": "lcaddon.sounds.test1_b5"
+  },
+  "test1_c5": {
+    "sounds": ["lcaddon:test1/c5"],
+    "subtitle": "lcaddon.sounds.test1_c5"
+  },
+  "test1_cs5": {
+    "sounds": ["lcaddon:test1/cs5"],
+    "subtitle": "lcaddon.sounds.test1_cs5"
+  },
+  "test1_d5": {
+    "sounds": ["lcaddon:test1/d5"],
+    "subtitle": "lcaddon.sounds.test1_d5"
+  },
+  "test1_ds5": {
+    "sounds": ["lcaddon:test1/ds5"],
+    "subtitle": "lcaddon.sounds.test1_ds5"
+  },
+  "test1_e5": {
+    "sounds": ["lcaddon:test1/e5"],
+    "subtitle": "lcaddon.sounds.test1_e5"
+  },
+  "test1_f5": {
+    "sounds": ["lcaddon:test1/f5"],
+    "subtitle": "lcaddon.sounds.test1_f5"
+  },
+  "test1_fs5": {
+    "sounds": ["lcaddon:test1/fs5"],
+    "subtitle": "lcaddon.sounds.test1_fs5"
+  },
+  "test1_g5": {
+    "sounds": ["lcaddon:test1/g5"],
+    "subtitle": "lcaddon.sounds.test1_g5"
+  },
+  "test1_gs5": {
+    "sounds": ["lcaddon:test1/gs5"],
+    "subtitle": "lcaddon.sounds.test1_gs5"
+  },
+  "test1_a6": {
+    "sounds": ["lcaddon:test1/a6"],
+    "subtitle": "lcaddon.sounds.test1_a6"
+  },
+  "test1_as6": {
+    "sounds": ["lcaddon:test1/as6"],
+    "subtitle": "lcaddon.sounds.test1_as6"
+  },
+  "test1_b6": {
+    "sounds": ["lcaddon:test1/b6"],
+    "subtitle": "lcaddon.sounds.test1_b6"
+  },
+  "test1_c6": {
+    "sounds": ["lcaddon:test1/c6"],
+    "subtitle": "lcaddon.sounds.test1_c6"
+  },
+  "test1_cs6": {
+    "sounds": ["lcaddon:test1/cs6"],
+    "subtitle": "lcaddon.sounds.test1_cs6"
+  },
+  "test1_d6": {
+    "sounds": ["lcaddon:test1/d6"],
+    "subtitle": "lcaddon.sounds.test1_d6"
+  },
+  "test1_ds6": {
+    "sounds": ["lcaddon:test1/ds6"],
+    "subtitle": "lcaddon.sounds.test1_ds6"
+  },
+  "test1_e6": {
+    "sounds": ["lcaddon:test1/e6"],
+    "subtitle": "lcaddon.sounds.test1_e6"
+  },
+  "test1_f6": {
+    "sounds": ["lcaddon:test1/f6"],
+    "subtitle": "lcaddon.sounds.test1_f6"
+  },
+  "test1_fs6": {
+    "sounds": ["lcaddon:test1/fs6"],
+    "subtitle": "lcaddon.sounds.test1_fs6"
+  },
+  "test1_g6": {
+    "sounds": ["lcaddon:test1/g6"],
+    "subtitle": "lcaddon.sounds.test1_g6"
+  },
+  "test1_gs6": {
+    "sounds": ["lcaddon:test1/gs6"],
+    "subtitle": "lcaddon.sounds.test1_gs6"
+  },
+  "test1_a7": {
+    "sounds": ["lcaddon:test1/a7"],
+    "subtitle": "lcaddon.sounds.test1_a7"
+  },
+  "test1_as7": {
+    "sounds": ["lcaddon:test1/as7"],
+    "subtitle": "lcaddon.sounds.test1_as7"
+  },
+  "test1_b7": {
+    "sounds": ["lcaddon:test1/b7"],
+    "subtitle": "lcaddon.sounds.test1_b7"
+  },
+  "test1_c7": {
+    "sounds": ["lcaddon:test1/c7"],
+    "subtitle": "lcaddon.sounds.test1_c7"
+  },
+  "test1_cs7": {
+    "sounds": ["lcaddon:test1/cs7"],
+    "subtitle": "lcaddon.sounds.test1_cs7"
+  },
+  "test1_d7": {
+    "sounds": ["lcaddon:test1/d7"],
+    "subtitle": "lcaddon.sounds.test1_d7"
+  },
+  "test1_ds7": {
+    "sounds": ["lcaddon:test1/ds7"],
+    "subtitle": "lcaddon.sounds.test1_ds7"
+  },
+  "test1_e7": {
+    "sounds": ["lcaddon:test1/e7"],
+    "subtitle": "lcaddon.sounds.test1_e7"
+  },
+  "test1_f7": {
+    "sounds": ["lcaddon:test1/f7"],
+    "subtitle": "lcaddon.sounds.test1_f7"
+  },
+  "test1_fs7": {
+    "sounds": ["lcaddon:test1/fs7"],
+    "subtitle": "lcaddon.sounds.test1_fs7"
+  },
+  "test1_g7": {
+    "sounds": ["lcaddon:test1/g7"],
+    "subtitle": "lcaddon.sounds.test1_g7"
+  },
+  "test1_gs7": {
+    "sounds": ["lcaddon:test1/gs7"],
+    "subtitle": "lcaddon.sounds.test1_gs7"
+  },
+  "test1_a8": {
+    "sounds": ["lcaddon:test1/a8"],
+    "subtitle": "lcaddon.sounds.test1_a8"
+  },
+  "test1_as8": {
+    "sounds": ["lcaddon:test1/as8"],
+    "subtitle": "lcaddon.sounds.test1_as8"
+  },
+  "test1_b8": {
+    "sounds": ["lcaddon:test1/b8"],
+    "subtitle": "lcaddon.sounds.test1_b8"
+  },
+  "test1_c8": {
+    "sounds": ["lcaddon:test1/c8"],
+    "subtitle": "lcaddon.sounds.test1_c8"
+  },
+  "steinway_d_a1_0": {
+    "sounds": ["lcaddon:steinway_d/a1_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_a1_0"
+  },
+  "steinway_d_a1_1": {
+    "sounds": ["lcaddon:steinway_d/a1_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_a1_1"
+  },
+  "steinway_d_a1_2": {
+    "sounds": ["lcaddon:steinway_d/a1_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_a1_2"
+  },
+  "steinway_d_a1_3": {
+    "sounds": ["lcaddon:steinway_d/a1_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_a1_3"
+  },
+  "steinway_d_as1_0": {
+    "sounds": ["lcaddon:steinway_d/as1_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_as1_0"
+  },
+  "steinway_d_as1_1": {
+    "sounds": ["lcaddon:steinway_d/as1_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_as1_1"
+  },
+  "steinway_d_as1_2": {
+    "sounds": ["lcaddon:steinway_d/as1_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_as1_2"
+  },
+  "steinway_d_as1_3": {
+    "sounds": ["lcaddon:steinway_d/as1_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_as1_3"
+  },
+  "steinway_d_b1_0": {
+    "sounds": ["lcaddon:steinway_d/b1_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_b1_0"
+  },
+  "steinway_d_b1_1": {
+    "sounds": ["lcaddon:steinway_d/b1_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_b1_1"
+  },
+  "steinway_d_b1_2": {
+    "sounds": ["lcaddon:steinway_d/b1_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_b1_2"
+  },
+  "steinway_d_b1_3": {
+    "sounds": ["lcaddon:steinway_d/b1_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_b1_3"
+  },
+  "steinway_d_c1_0": {
+    "sounds": ["lcaddon:steinway_d/c1_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_c1_0"
+  },
+  "steinway_d_c1_1": {
+    "sounds": ["lcaddon:steinway_d/c1_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_c1_1"
+  },
+  "steinway_d_c1_2": {
+    "sounds": ["lcaddon:steinway_d/c1_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_c1_2"
+  },
+  "steinway_d_c1_3": {
+    "sounds": ["lcaddon:steinway_d/c1_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_c1_3"
+  },
+  "steinway_d_cs1_0": {
+    "sounds": ["lcaddon:steinway_d/cs1_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs1_0"
+  },
+  "steinway_d_cs1_1": {
+    "sounds": ["lcaddon:steinway_d/cs1_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs1_1"
+  },
+  "steinway_d_cs1_2": {
+    "sounds": ["lcaddon:steinway_d/cs1_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs1_2"
+  },
+  "steinway_d_cs1_3": {
+    "sounds": ["lcaddon:steinway_d/cs1_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs1_3"
+  },
+  "steinway_d_d1_0": {
+    "sounds": ["lcaddon:steinway_d/d1_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_d1_0"
+  },
+  "steinway_d_d1_1": {
+    "sounds": ["lcaddon:steinway_d/d1_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_d1_1"
+  },
+  "steinway_d_d1_2": {
+    "sounds": ["lcaddon:steinway_d/d1_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_d1_2"
+  },
+  "steinway_d_d1_3": {
+    "sounds": ["lcaddon:steinway_d/d1_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_d1_3"
+  },
+  "steinway_d_ds1_0": {
+    "sounds": ["lcaddon:steinway_d/ds1_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds1_0"
+  },
+  "steinway_d_ds1_1": {
+    "sounds": ["lcaddon:steinway_d/ds1_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds1_1"
+  },
+  "steinway_d_ds1_2": {
+    "sounds": ["lcaddon:steinway_d/ds1_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds1_2"
+  },
+  "steinway_d_ds1_3": {
+    "sounds": ["lcaddon:steinway_d/ds1_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds1_3"
+  },
+  "steinway_d_e1_0": {
+    "sounds": ["lcaddon:steinway_d/e1_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_e1_0"
+  },
+  "steinway_d_e1_1": {
+    "sounds": ["lcaddon:steinway_d/e1_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_e1_1"
+  },
+  "steinway_d_e1_2": {
+    "sounds": ["lcaddon:steinway_d/e1_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_e1_2"
+  },
+  "steinway_d_e1_3": {
+    "sounds": ["lcaddon:steinway_d/e1_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_e1_3"
+  },
+  "steinway_d_f1_0": {
+    "sounds": ["lcaddon:steinway_d/f1_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_f1_0"
+  },
+  "steinway_d_f1_1": {
+    "sounds": ["lcaddon:steinway_d/f1_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_f1_1"
+  },
+  "steinway_d_f1_2": {
+    "sounds": ["lcaddon:steinway_d/f1_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_f1_2"
+  },
+  "steinway_d_f1_3": {
+    "sounds": ["lcaddon:steinway_d/f1_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_f1_3"
+  },
+  "steinway_d_fs1_0": {
+    "sounds": ["lcaddon:steinway_d/fs1_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs1_0"
+  },
+  "steinway_d_fs1_1": {
+    "sounds": ["lcaddon:steinway_d/fs1_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs1_1"
+  },
+  "steinway_d_fs1_2": {
+    "sounds": ["lcaddon:steinway_d/fs1_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs1_2"
+  },
+  "steinway_d_fs1_3": {
+    "sounds": ["lcaddon:steinway_d/fs1_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs1_3"
+  },
+  "steinway_d_g1_0": {
+    "sounds": ["lcaddon:steinway_d/g1_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_g1_0"
+  },
+  "steinway_d_g1_1": {
+    "sounds": ["lcaddon:steinway_d/g1_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_g1_1"
+  },
+  "steinway_d_g1_2": {
+    "sounds": ["lcaddon:steinway_d/g1_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_g1_2"
+  },
+  "steinway_d_g1_3": {
+    "sounds": ["lcaddon:steinway_d/g1_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_g1_3"
+  },
+  "steinway_d_gs1_0": {
+    "sounds": ["lcaddon:steinway_d/gs1_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs1_0"
+  },
+  "steinway_d_gs1_1": {
+    "sounds": ["lcaddon:steinway_d/gs1_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs1_1"
+  },
+  "steinway_d_gs1_2": {
+    "sounds": ["lcaddon:steinway_d/gs1_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs1_2"
+  },
+  "steinway_d_gs1_3": {
+    "sounds": ["lcaddon:steinway_d/gs1_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs1_3"
+  },
+  "steinway_d_a2_0": {
+    "sounds": ["lcaddon:steinway_d/a2_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_a2_0"
+  },
+  "steinway_d_a2_1": {
+    "sounds": ["lcaddon:steinway_d/a2_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_a2_1"
+  },
+  "steinway_d_a2_2": {
+    "sounds": ["lcaddon:steinway_d/a2_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_a2_2"
+  },
+  "steinway_d_a2_3": {
+    "sounds": ["lcaddon:steinway_d/a2_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_a2_3"
+  },
+  "steinway_d_as2_0": {
+    "sounds": ["lcaddon:steinway_d/as2_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_as2_0"
+  },
+  "steinway_d_as2_1": {
+    "sounds": ["lcaddon:steinway_d/as2_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_as2_1"
+  },
+  "steinway_d_as2_2": {
+    "sounds": ["lcaddon:steinway_d/as2_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_as2_2"
+  },
+  "steinway_d_as2_3": {
+    "sounds": ["lcaddon:steinway_d/as2_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_as2_3"
+  },
+  "steinway_d_b2_0": {
+    "sounds": ["lcaddon:steinway_d/b2_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_b2_0"
+  },
+  "steinway_d_b2_1": {
+    "sounds": ["lcaddon:steinway_d/b2_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_b2_1"
+  },
+  "steinway_d_b2_2": {
+    "sounds": ["lcaddon:steinway_d/b2_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_b2_2"
+  },
+  "steinway_d_b2_3": {
+    "sounds": ["lcaddon:steinway_d/b2_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_b2_3"
+  },
+  "steinway_d_c2_0": {
+    "sounds": ["lcaddon:steinway_d/c2_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_c2_0"
+  },
+  "steinway_d_c2_1": {
+    "sounds": ["lcaddon:steinway_d/c2_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_c2_1"
+  },
+  "steinway_d_c2_2": {
+    "sounds": ["lcaddon:steinway_d/c2_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_c2_2"
+  },
+  "steinway_d_c2_3": {
+    "sounds": ["lcaddon:steinway_d/c2_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_c2_3"
+  },
+  "steinway_d_cs2_0": {
+    "sounds": ["lcaddon:steinway_d/cs2_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs2_0"
+  },
+  "steinway_d_cs2_1": {
+    "sounds": ["lcaddon:steinway_d/cs2_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs2_1"
+  },
+  "steinway_d_cs2_2": {
+    "sounds": ["lcaddon:steinway_d/cs2_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs2_2"
+  },
+  "steinway_d_cs2_3": {
+    "sounds": ["lcaddon:steinway_d/cs2_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs2_3"
+  },
+  "steinway_d_d2_0": {
+    "sounds": ["lcaddon:steinway_d/d2_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_d2_0"
+  },
+  "steinway_d_d2_1": {
+    "sounds": ["lcaddon:steinway_d/d2_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_d2_1"
+  },
+  "steinway_d_d2_2": {
+    "sounds": ["lcaddon:steinway_d/d2_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_d2_2"
+  },
+  "steinway_d_d2_3": {
+    "sounds": ["lcaddon:steinway_d/d2_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_d2_3"
+  },
+  "steinway_d_ds2_0": {
+    "sounds": ["lcaddon:steinway_d/ds2_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds2_0"
+  },
+  "steinway_d_ds2_1": {
+    "sounds": ["lcaddon:steinway_d/ds2_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds2_1"
+  },
+  "steinway_d_ds2_2": {
+    "sounds": ["lcaddon:steinway_d/ds2_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds2_2"
+  },
+  "steinway_d_ds2_3": {
+    "sounds": ["lcaddon:steinway_d/ds2_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds2_3"
+  },
+  "steinway_d_e2_0": {
+    "sounds": ["lcaddon:steinway_d/e2_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_e2_0"
+  },
+  "steinway_d_e2_1": {
+    "sounds": ["lcaddon:steinway_d/e2_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_e2_1"
+  },
+  "steinway_d_e2_2": {
+    "sounds": ["lcaddon:steinway_d/e2_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_e2_2"
+  },
+  "steinway_d_e2_3": {
+    "sounds": ["lcaddon:steinway_d/e2_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_e2_3"
+  },
+  "steinway_d_f2_0": {
+    "sounds": ["lcaddon:steinway_d/f2_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_f2_0"
+  },
+  "steinway_d_f2_1": {
+    "sounds": ["lcaddon:steinway_d/f2_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_f2_1"
+  },
+  "steinway_d_f2_2": {
+    "sounds": ["lcaddon:steinway_d/f2_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_f2_2"
+  },
+  "steinway_d_f2_3": {
+    "sounds": ["lcaddon:steinway_d/f2_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_f2_3"
+  },
+  "steinway_d_fs2_0": {
+    "sounds": ["lcaddon:steinway_d/fs2_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs2_0"
+  },
+  "steinway_d_fs2_1": {
+    "sounds": ["lcaddon:steinway_d/fs2_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs2_1"
+  },
+  "steinway_d_fs2_2": {
+    "sounds": ["lcaddon:steinway_d/fs2_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs2_2"
+  },
+  "steinway_d_fs2_3": {
+    "sounds": ["lcaddon:steinway_d/fs2_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs2_3"
+  },
+  "steinway_d_g2_0": {
+    "sounds": ["lcaddon:steinway_d/g2_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_g2_0"
+  },
+  "steinway_d_g2_1": {
+    "sounds": ["lcaddon:steinway_d/g2_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_g2_1"
+  },
+  "steinway_d_g2_2": {
+    "sounds": ["lcaddon:steinway_d/g2_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_g2_2"
+  },
+  "steinway_d_g2_3": {
+    "sounds": ["lcaddon:steinway_d/g2_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_g2_3"
+  },
+  "steinway_d_gs2_0": {
+    "sounds": ["lcaddon:steinway_d/gs2_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs2_0"
+  },
+  "steinway_d_gs2_1": {
+    "sounds": ["lcaddon:steinway_d/gs2_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs2_1"
+  },
+  "steinway_d_gs2_2": {
+    "sounds": ["lcaddon:steinway_d/gs2_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs2_2"
+  },
+  "steinway_d_gs2_3": {
+    "sounds": ["lcaddon:steinway_d/gs2_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs2_3"
+  },
+  "steinway_d_a3_0": {
+    "sounds": ["lcaddon:steinway_d/a3_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_a3_0"
+  },
+  "steinway_d_a3_1": {
+    "sounds": ["lcaddon:steinway_d/a3_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_a3_1"
+  },
+  "steinway_d_a3_2": {
+    "sounds": ["lcaddon:steinway_d/a3_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_a3_2"
+  },
+  "steinway_d_a3_3": {
+    "sounds": ["lcaddon:steinway_d/a3_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_a3_3"
+  },
+  "steinway_d_as3_0": {
+    "sounds": ["lcaddon:steinway_d/as3_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_as3_0"
+  },
+  "steinway_d_as3_1": {
+    "sounds": ["lcaddon:steinway_d/as3_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_as3_1"
+  },
+  "steinway_d_as3_2": {
+    "sounds": ["lcaddon:steinway_d/as3_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_as3_2"
+  },
+  "steinway_d_as3_3": {
+    "sounds": ["lcaddon:steinway_d/as3_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_as3_3"
+  },
+  "steinway_d_b3_0": {
+    "sounds": ["lcaddon:steinway_d/b3_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_b3_0"
+  },
+  "steinway_d_b3_1": {
+    "sounds": ["lcaddon:steinway_d/b3_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_b3_1"
+  },
+  "steinway_d_b3_2": {
+    "sounds": ["lcaddon:steinway_d/b3_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_b3_2"
+  },
+  "steinway_d_b3_3": {
+    "sounds": ["lcaddon:steinway_d/b3_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_b3_3"
+  },
+  "steinway_d_c3_0": {
+    "sounds": ["lcaddon:steinway_d/c3_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_c3_0"
+  },
+  "steinway_d_c3_1": {
+    "sounds": ["lcaddon:steinway_d/c3_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_c3_1"
+  },
+  "steinway_d_c3_2": {
+    "sounds": ["lcaddon:steinway_d/c3_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_c3_2"
+  },
+  "steinway_d_c3_3": {
+    "sounds": ["lcaddon:steinway_d/c3_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_c3_3"
+  },
+  "steinway_d_cs3_0": {
+    "sounds": ["lcaddon:steinway_d/cs3_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs3_0"
+  },
+  "steinway_d_cs3_1": {
+    "sounds": ["lcaddon:steinway_d/cs3_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs3_1"
+  },
+  "steinway_d_cs3_2": {
+    "sounds": ["lcaddon:steinway_d/cs3_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs3_2"
+  },
+  "steinway_d_cs3_3": {
+    "sounds": ["lcaddon:steinway_d/cs3_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs3_3"
+  },
+  "steinway_d_d3_0": {
+    "sounds": ["lcaddon:steinway_d/d3_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_d3_0"
+  },
+  "steinway_d_d3_1": {
+    "sounds": ["lcaddon:steinway_d/d3_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_d3_1"
+  },
+  "steinway_d_d3_2": {
+    "sounds": ["lcaddon:steinway_d/d3_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_d3_2"
+  },
+  "steinway_d_d3_3": {
+    "sounds": ["lcaddon:steinway_d/d3_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_d3_3"
+  },
+  "steinway_d_ds3_0": {
+    "sounds": ["lcaddon:steinway_d/ds3_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds3_0"
+  },
+  "steinway_d_ds3_1": {
+    "sounds": ["lcaddon:steinway_d/ds3_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds3_1"
+  },
+  "steinway_d_ds3_2": {
+    "sounds": ["lcaddon:steinway_d/ds3_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds3_2"
+  },
+  "steinway_d_ds3_3": {
+    "sounds": ["lcaddon:steinway_d/ds3_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds3_3"
+  },
+  "steinway_d_e3_0": {
+    "sounds": ["lcaddon:steinway_d/e3_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_e3_0"
+  },
+  "steinway_d_e3_1": {
+    "sounds": ["lcaddon:steinway_d/e3_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_e3_1"
+  },
+  "steinway_d_e3_2": {
+    "sounds": ["lcaddon:steinway_d/e3_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_e3_2"
+  },
+  "steinway_d_e3_3": {
+    "sounds": ["lcaddon:steinway_d/e3_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_e3_3"
+  },
+  "steinway_d_f3_0": {
+    "sounds": ["lcaddon:steinway_d/f3_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_f3_0"
+  },
+  "steinway_d_f3_1": {
+    "sounds": ["lcaddon:steinway_d/f3_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_f3_1"
+  },
+  "steinway_d_f3_2": {
+    "sounds": ["lcaddon:steinway_d/f3_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_f3_2"
+  },
+  "steinway_d_f3_3": {
+    "sounds": ["lcaddon:steinway_d/f3_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_f3_3"
+  },
+  "steinway_d_fs3_0": {
+    "sounds": ["lcaddon:steinway_d/fs3_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs3_0"
+  },
+  "steinway_d_fs3_1": {
+    "sounds": ["lcaddon:steinway_d/fs3_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs3_1"
+  },
+  "steinway_d_fs3_2": {
+    "sounds": ["lcaddon:steinway_d/fs3_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs3_2"
+  },
+  "steinway_d_fs3_3": {
+    "sounds": ["lcaddon:steinway_d/fs3_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs3_3"
+  },
+  "steinway_d_g3_0": {
+    "sounds": ["lcaddon:steinway_d/g3_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_g3_0"
+  },
+  "steinway_d_g3_1": {
+    "sounds": ["lcaddon:steinway_d/g3_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_g3_1"
+  },
+  "steinway_d_g3_2": {
+    "sounds": ["lcaddon:steinway_d/g3_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_g3_2"
+  },
+  "steinway_d_g3_3": {
+    "sounds": ["lcaddon:steinway_d/g3_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_g3_3"
+  },
+  "steinway_d_gs3_0": {
+    "sounds": ["lcaddon:steinway_d/gs3_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs3_0"
+  },
+  "steinway_d_gs3_1": {
+    "sounds": ["lcaddon:steinway_d/gs3_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs3_1"
+  },
+  "steinway_d_gs3_2": {
+    "sounds": ["lcaddon:steinway_d/gs3_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs3_2"
+  },
+  "steinway_d_gs3_3": {
+    "sounds": ["lcaddon:steinway_d/gs3_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs3_3"
+  },
+  "steinway_d_a4_0": {
+    "sounds": ["lcaddon:steinway_d/a4_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_a4_0"
+  },
+  "steinway_d_a4_1": {
+    "sounds": ["lcaddon:steinway_d/a4_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_a4_1"
+  },
+  "steinway_d_a4_2": {
+    "sounds": ["lcaddon:steinway_d/a4_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_a4_2"
+  },
+  "steinway_d_a4_3": {
+    "sounds": ["lcaddon:steinway_d/a4_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_a4_3"
+  },
+  "steinway_d_as4_0": {
+    "sounds": ["lcaddon:steinway_d/as4_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_as4_0"
+  },
+  "steinway_d_as4_1": {
+    "sounds": ["lcaddon:steinway_d/as4_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_as4_1"
+  },
+  "steinway_d_as4_2": {
+    "sounds": ["lcaddon:steinway_d/as4_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_as4_2"
+  },
+  "steinway_d_as4_3": {
+    "sounds": ["lcaddon:steinway_d/as4_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_as4_3"
+  },
+  "steinway_d_b4_0": {
+    "sounds": ["lcaddon:steinway_d/b4_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_b4_0"
+  },
+  "steinway_d_b4_1": {
+    "sounds": ["lcaddon:steinway_d/b4_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_b4_1"
+  },
+  "steinway_d_b4_2": {
+    "sounds": ["lcaddon:steinway_d/b4_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_b4_2"
+  },
+  "steinway_d_b4_3": {
+    "sounds": ["lcaddon:steinway_d/b4_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_b4_3"
+  },
+  "steinway_d_c4_0": {
+    "sounds": ["lcaddon:steinway_d/c4_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_c4_0"
+  },
+  "steinway_d_c4_1": {
+    "sounds": ["lcaddon:steinway_d/c4_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_c4_1"
+  },
+  "steinway_d_c4_2": {
+    "sounds": ["lcaddon:steinway_d/c4_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_c4_2"
+  },
+  "steinway_d_c4_3": {
+    "sounds": ["lcaddon:steinway_d/c4_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_c4_3"
+  },
+  "steinway_d_cs4_0": {
+    "sounds": ["lcaddon:steinway_d/cs4_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs4_0"
+  },
+  "steinway_d_cs4_1": {
+    "sounds": ["lcaddon:steinway_d/cs4_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs4_1"
+  },
+  "steinway_d_cs4_2": {
+    "sounds": ["lcaddon:steinway_d/cs4_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs4_2"
+  },
+  "steinway_d_cs4_3": {
+    "sounds": ["lcaddon:steinway_d/cs4_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs4_3"
+  },
+  "steinway_d_d4_0": {
+    "sounds": ["lcaddon:steinway_d/d4_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_d4_0"
+  },
+  "steinway_d_d4_1": {
+    "sounds": ["lcaddon:steinway_d/d4_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_d4_1"
+  },
+  "steinway_d_d4_2": {
+    "sounds": ["lcaddon:steinway_d/d4_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_d4_2"
+  },
+  "steinway_d_d4_3": {
+    "sounds": ["lcaddon:steinway_d/d4_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_d4_3"
+  },
+  "steinway_d_ds4_0": {
+    "sounds": ["lcaddon:steinway_d/ds4_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds4_0"
+  },
+  "steinway_d_ds4_1": {
+    "sounds": ["lcaddon:steinway_d/ds4_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds4_1"
+  },
+  "steinway_d_ds4_2": {
+    "sounds": ["lcaddon:steinway_d/ds4_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds4_2"
+  },
+  "steinway_d_ds4_3": {
+    "sounds": ["lcaddon:steinway_d/ds4_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds4_3"
+  },
+  "steinway_d_e4_0": {
+    "sounds": ["lcaddon:steinway_d/e4_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_e4_0"
+  },
+  "steinway_d_e4_1": {
+    "sounds": ["lcaddon:steinway_d/e4_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_e4_1"
+  },
+  "steinway_d_e4_2": {
+    "sounds": ["lcaddon:steinway_d/e4_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_e4_2"
+  },
+  "steinway_d_e4_3": {
+    "sounds": ["lcaddon:steinway_d/e4_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_e4_3"
+  },
+  "steinway_d_f4_0": {
+    "sounds": ["lcaddon:steinway_d/f4_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_f4_0"
+  },
+  "steinway_d_f4_1": {
+    "sounds": ["lcaddon:steinway_d/f4_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_f4_1"
+  },
+  "steinway_d_f4_2": {
+    "sounds": ["lcaddon:steinway_d/f4_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_f4_2"
+  },
+  "steinway_d_f4_3": {
+    "sounds": ["lcaddon:steinway_d/f4_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_f4_3"
+  },
+  "steinway_d_fs4_0": {
+    "sounds": ["lcaddon:steinway_d/fs4_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs4_0"
+  },
+  "steinway_d_fs4_1": {
+    "sounds": ["lcaddon:steinway_d/fs4_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs4_1"
+  },
+  "steinway_d_fs4_2": {
+    "sounds": ["lcaddon:steinway_d/fs4_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs4_2"
+  },
+  "steinway_d_fs4_3": {
+    "sounds": ["lcaddon:steinway_d/fs4_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs4_3"
+  },
+  "steinway_d_g4_0": {
+    "sounds": ["lcaddon:steinway_d/g4_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_g4_0"
+  },
+  "steinway_d_g4_1": {
+    "sounds": ["lcaddon:steinway_d/g4_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_g4_1"
+  },
+  "steinway_d_g4_2": {
+    "sounds": ["lcaddon:steinway_d/g4_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_g4_2"
+  },
+  "steinway_d_g4_3": {
+    "sounds": ["lcaddon:steinway_d/g4_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_g4_3"
+  },
+  "steinway_d_gs4_0": {
+    "sounds": ["lcaddon:steinway_d/gs4_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs4_0"
+  },
+  "steinway_d_gs4_1": {
+    "sounds": ["lcaddon:steinway_d/gs4_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs4_1"
+  },
+  "steinway_d_gs4_2": {
+    "sounds": ["lcaddon:steinway_d/gs4_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs4_2"
+  },
+  "steinway_d_gs4_3": {
+    "sounds": ["lcaddon:steinway_d/gs4_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs4_3"
+  },
+  "steinway_d_a5_0": {
+    "sounds": ["lcaddon:steinway_d/a5_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_a5_0"
+  },
+  "steinway_d_a5_1": {
+    "sounds": ["lcaddon:steinway_d/a5_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_a5_1"
+  },
+  "steinway_d_a5_2": {
+    "sounds": ["lcaddon:steinway_d/a5_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_a5_2"
+  },
+  "steinway_d_a5_3": {
+    "sounds": ["lcaddon:steinway_d/a5_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_a5_3"
+  },
+  "steinway_d_as5_0": {
+    "sounds": ["lcaddon:steinway_d/as5_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_as5_0"
+  },
+  "steinway_d_as5_1": {
+    "sounds": ["lcaddon:steinway_d/as5_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_as5_1"
+  },
+  "steinway_d_as5_2": {
+    "sounds": ["lcaddon:steinway_d/as5_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_as5_2"
+  },
+  "steinway_d_as5_3": {
+    "sounds": ["lcaddon:steinway_d/as5_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_as5_3"
+  },
+  "steinway_d_b5_0": {
+    "sounds": ["lcaddon:steinway_d/b5_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_b5_0"
+  },
+  "steinway_d_b5_1": {
+    "sounds": ["lcaddon:steinway_d/b5_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_b5_1"
+  },
+  "steinway_d_b5_2": {
+    "sounds": ["lcaddon:steinway_d/b5_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_b5_2"
+  },
+  "steinway_d_b5_3": {
+    "sounds": ["lcaddon:steinway_d/b5_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_b5_3"
+  },
+  "steinway_d_c5_0": {
+    "sounds": ["lcaddon:steinway_d/c5_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_c5_0"
+  },
+  "steinway_d_c5_1": {
+    "sounds": ["lcaddon:steinway_d/c5_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_c5_1"
+  },
+  "steinway_d_c5_2": {
+    "sounds": ["lcaddon:steinway_d/c5_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_c5_2"
+  },
+  "steinway_d_c5_3": {
+    "sounds": ["lcaddon:steinway_d/c5_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_c5_3"
+  },
+  "steinway_d_cs5_0": {
+    "sounds": ["lcaddon:steinway_d/cs5_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs5_0"
+  },
+  "steinway_d_cs5_1": {
+    "sounds": ["lcaddon:steinway_d/cs5_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs5_1"
+  },
+  "steinway_d_cs5_2": {
+    "sounds": ["lcaddon:steinway_d/cs5_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs5_2"
+  },
+  "steinway_d_cs5_3": {
+    "sounds": ["lcaddon:steinway_d/cs5_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs5_3"
+  },
+  "steinway_d_d5_0": {
+    "sounds": ["lcaddon:steinway_d/d5_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_d5_0"
+  },
+  "steinway_d_d5_1": {
+    "sounds": ["lcaddon:steinway_d/d5_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_d5_1"
+  },
+  "steinway_d_d5_2": {
+    "sounds": ["lcaddon:steinway_d/d5_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_d5_2"
+  },
+  "steinway_d_d5_3": {
+    "sounds": ["lcaddon:steinway_d/d5_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_d5_3"
+  },
+  "steinway_d_ds5_0": {
+    "sounds": ["lcaddon:steinway_d/ds5_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds5_0"
+  },
+  "steinway_d_ds5_1": {
+    "sounds": ["lcaddon:steinway_d/ds5_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds5_1"
+  },
+  "steinway_d_ds5_2": {
+    "sounds": ["lcaddon:steinway_d/ds5_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds5_2"
+  },
+  "steinway_d_ds5_3": {
+    "sounds": ["lcaddon:steinway_d/ds5_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds5_3"
+  },
+  "steinway_d_e5_0": {
+    "sounds": ["lcaddon:steinway_d/e5_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_e5_0"
+  },
+  "steinway_d_e5_1": {
+    "sounds": ["lcaddon:steinway_d/e5_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_e5_1"
+  },
+  "steinway_d_e5_2": {
+    "sounds": ["lcaddon:steinway_d/e5_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_e5_2"
+  },
+  "steinway_d_e5_3": {
+    "sounds": ["lcaddon:steinway_d/e5_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_e5_3"
+  },
+  "steinway_d_f5_0": {
+    "sounds": ["lcaddon:steinway_d/f5_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_f5_0"
+  },
+  "steinway_d_f5_1": {
+    "sounds": ["lcaddon:steinway_d/f5_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_f5_1"
+  },
+  "steinway_d_f5_2": {
+    "sounds": ["lcaddon:steinway_d/f5_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_f5_2"
+  },
+  "steinway_d_f5_3": {
+    "sounds": ["lcaddon:steinway_d/f5_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_f5_3"
+  },
+  "steinway_d_fs5_0": {
+    "sounds": ["lcaddon:steinway_d/fs5_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs5_0"
+  },
+  "steinway_d_fs5_1": {
+    "sounds": ["lcaddon:steinway_d/fs5_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs5_1"
+  },
+  "steinway_d_fs5_2": {
+    "sounds": ["lcaddon:steinway_d/fs5_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs5_2"
+  },
+  "steinway_d_fs5_3": {
+    "sounds": ["lcaddon:steinway_d/fs5_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs5_3"
+  },
+  "steinway_d_g5_0": {
+    "sounds": ["lcaddon:steinway_d/g5_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_g5_0"
+  },
+  "steinway_d_g5_1": {
+    "sounds": ["lcaddon:steinway_d/g5_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_g5_1"
+  },
+  "steinway_d_g5_2": {
+    "sounds": ["lcaddon:steinway_d/g5_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_g5_2"
+  },
+  "steinway_d_g5_3": {
+    "sounds": ["lcaddon:steinway_d/g5_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_g5_3"
+  },
+  "steinway_d_gs5_0": {
+    "sounds": ["lcaddon:steinway_d/gs5_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs5_0"
+  },
+  "steinway_d_gs5_1": {
+    "sounds": ["lcaddon:steinway_d/gs5_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs5_1"
+  },
+  "steinway_d_gs5_2": {
+    "sounds": ["lcaddon:steinway_d/gs5_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs5_2"
+  },
+  "steinway_d_gs5_3": {
+    "sounds": ["lcaddon:steinway_d/gs5_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs5_3"
+  },
+  "steinway_d_a6_0": {
+    "sounds": ["lcaddon:steinway_d/a6_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_a6_0"
+  },
+  "steinway_d_a6_1": {
+    "sounds": ["lcaddon:steinway_d/a6_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_a6_1"
+  },
+  "steinway_d_a6_2": {
+    "sounds": ["lcaddon:steinway_d/a6_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_a6_2"
+  },
+  "steinway_d_a6_3": {
+    "sounds": ["lcaddon:steinway_d/a6_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_a6_3"
+  },
+  "steinway_d_as6_0": {
+    "sounds": ["lcaddon:steinway_d/as6_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_as6_0"
+  },
+  "steinway_d_as6_1": {
+    "sounds": ["lcaddon:steinway_d/as6_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_as6_1"
+  },
+  "steinway_d_as6_2": {
+    "sounds": ["lcaddon:steinway_d/as6_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_as6_2"
+  },
+  "steinway_d_as6_3": {
+    "sounds": ["lcaddon:steinway_d/as6_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_as6_3"
+  },
+  "steinway_d_b6_0": {
+    "sounds": ["lcaddon:steinway_d/b6_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_b6_0"
+  },
+  "steinway_d_b6_1": {
+    "sounds": ["lcaddon:steinway_d/b6_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_b6_1"
+  },
+  "steinway_d_b6_2": {
+    "sounds": ["lcaddon:steinway_d/b6_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_b6_2"
+  },
+  "steinway_d_b6_3": {
+    "sounds": ["lcaddon:steinway_d/b6_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_b6_3"
+  },
+  "steinway_d_c6_0": {
+    "sounds": ["lcaddon:steinway_d/c6_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_c6_0"
+  },
+  "steinway_d_c6_1": {
+    "sounds": ["lcaddon:steinway_d/c6_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_c6_1"
+  },
+  "steinway_d_c6_2": {
+    "sounds": ["lcaddon:steinway_d/c6_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_c6_2"
+  },
+  "steinway_d_c6_3": {
+    "sounds": ["lcaddon:steinway_d/c6_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_c6_3"
+  },
+  "steinway_d_cs6_0": {
+    "sounds": ["lcaddon:steinway_d/cs6_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs6_0"
+  },
+  "steinway_d_cs6_1": {
+    "sounds": ["lcaddon:steinway_d/cs6_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs6_1"
+  },
+  "steinway_d_cs6_2": {
+    "sounds": ["lcaddon:steinway_d/cs6_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs6_2"
+  },
+  "steinway_d_cs6_3": {
+    "sounds": ["lcaddon:steinway_d/cs6_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs6_3"
+  },
+  "steinway_d_d6_0": {
+    "sounds": ["lcaddon:steinway_d/d6_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_d6_0"
+  },
+  "steinway_d_d6_1": {
+    "sounds": ["lcaddon:steinway_d/d6_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_d6_1"
+  },
+  "steinway_d_d6_2": {
+    "sounds": ["lcaddon:steinway_d/d6_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_d6_2"
+  },
+  "steinway_d_d6_3": {
+    "sounds": ["lcaddon:steinway_d/d6_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_d6_3"
+  },
+  "steinway_d_ds6_0": {
+    "sounds": ["lcaddon:steinway_d/ds6_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds6_0"
+  },
+  "steinway_d_ds6_1": {
+    "sounds": ["lcaddon:steinway_d/ds6_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds6_1"
+  },
+  "steinway_d_ds6_2": {
+    "sounds": ["lcaddon:steinway_d/ds6_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds6_2"
+  },
+  "steinway_d_ds6_3": {
+    "sounds": ["lcaddon:steinway_d/ds6_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds6_3"
+  },
+  "steinway_d_e6_0": {
+    "sounds": ["lcaddon:steinway_d/e6_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_e6_0"
+  },
+  "steinway_d_e6_1": {
+    "sounds": ["lcaddon:steinway_d/e6_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_e6_1"
+  },
+  "steinway_d_e6_2": {
+    "sounds": ["lcaddon:steinway_d/e6_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_e6_2"
+  },
+  "steinway_d_e6_3": {
+    "sounds": ["lcaddon:steinway_d/e6_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_e6_3"
+  },
+  "steinway_d_f6_0": {
+    "sounds": ["lcaddon:steinway_d/f6_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_f6_0"
+  },
+  "steinway_d_f6_1": {
+    "sounds": ["lcaddon:steinway_d/f6_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_f6_1"
+  },
+  "steinway_d_f6_2": {
+    "sounds": ["lcaddon:steinway_d/f6_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_f6_2"
+  },
+  "steinway_d_f6_3": {
+    "sounds": ["lcaddon:steinway_d/f6_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_f6_3"
+  },
+  "steinway_d_fs6_0": {
+    "sounds": ["lcaddon:steinway_d/fs6_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs6_0"
+  },
+  "steinway_d_fs6_1": {
+    "sounds": ["lcaddon:steinway_d/fs6_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs6_1"
+  },
+  "steinway_d_fs6_2": {
+    "sounds": ["lcaddon:steinway_d/fs6_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs6_2"
+  },
+  "steinway_d_fs6_3": {
+    "sounds": ["lcaddon:steinway_d/fs6_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs6_3"
+  },
+  "steinway_d_g6_0": {
+    "sounds": ["lcaddon:steinway_d/g6_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_g6_0"
+  },
+  "steinway_d_g6_1": {
+    "sounds": ["lcaddon:steinway_d/g6_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_g6_1"
+  },
+  "steinway_d_g6_2": {
+    "sounds": ["lcaddon:steinway_d/g6_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_g6_2"
+  },
+  "steinway_d_g6_3": {
+    "sounds": ["lcaddon:steinway_d/g6_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_g6_3"
+  },
+  "steinway_d_gs6_0": {
+    "sounds": ["lcaddon:steinway_d/gs6_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs6_0"
+  },
+  "steinway_d_gs6_1": {
+    "sounds": ["lcaddon:steinway_d/gs6_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs6_1"
+  },
+  "steinway_d_gs6_2": {
+    "sounds": ["lcaddon:steinway_d/gs6_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs6_2"
+  },
+  "steinway_d_gs6_3": {
+    "sounds": ["lcaddon:steinway_d/gs6_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs6_3"
+  },
+  "steinway_d_a7_0": {
+    "sounds": ["lcaddon:steinway_d/a7_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_a7_0"
+  },
+  "steinway_d_a7_1": {
+    "sounds": ["lcaddon:steinway_d/a7_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_a7_1"
+  },
+  "steinway_d_a7_2": {
+    "sounds": ["lcaddon:steinway_d/a7_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_a7_2"
+  },
+  "steinway_d_a7_3": {
+    "sounds": ["lcaddon:steinway_d/a7_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_a7_3"
+  },
+  "steinway_d_as7_0": {
+    "sounds": ["lcaddon:steinway_d/as7_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_as7_0"
+  },
+  "steinway_d_as7_1": {
+    "sounds": ["lcaddon:steinway_d/as7_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_as7_1"
+  },
+  "steinway_d_as7_2": {
+    "sounds": ["lcaddon:steinway_d/as7_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_as7_2"
+  },
+  "steinway_d_as7_3": {
+    "sounds": ["lcaddon:steinway_d/as7_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_as7_3"
+  },
+  "steinway_d_b7_0": {
+    "sounds": ["lcaddon:steinway_d/b7_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_b7_0"
+  },
+  "steinway_d_b7_1": {
+    "sounds": ["lcaddon:steinway_d/b7_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_b7_1"
+  },
+  "steinway_d_b7_2": {
+    "sounds": ["lcaddon:steinway_d/b7_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_b7_2"
+  },
+  "steinway_d_b7_3": {
+    "sounds": ["lcaddon:steinway_d/b7_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_b7_3"
+  },
+  "steinway_d_c7_0": {
+    "sounds": ["lcaddon:steinway_d/c7_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_c7_0"
+  },
+  "steinway_d_c7_1": {
+    "sounds": ["lcaddon:steinway_d/c7_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_c7_1"
+  },
+  "steinway_d_c7_2": {
+    "sounds": ["lcaddon:steinway_d/c7_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_c7_2"
+  },
+  "steinway_d_c7_3": {
+    "sounds": ["lcaddon:steinway_d/c7_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_c7_3"
+  },
+  "steinway_d_cs7_0": {
+    "sounds": ["lcaddon:steinway_d/cs7_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs7_0"
+  },
+  "steinway_d_cs7_1": {
+    "sounds": ["lcaddon:steinway_d/cs7_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs7_1"
+  },
+  "steinway_d_cs7_2": {
+    "sounds": ["lcaddon:steinway_d/cs7_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs7_2"
+  },
+  "steinway_d_cs7_3": {
+    "sounds": ["lcaddon:steinway_d/cs7_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_cs7_3"
+  },
+  "steinway_d_d7_0": {
+    "sounds": ["lcaddon:steinway_d/d7_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_d7_0"
+  },
+  "steinway_d_d7_1": {
+    "sounds": ["lcaddon:steinway_d/d7_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_d7_1"
+  },
+  "steinway_d_d7_2": {
+    "sounds": ["lcaddon:steinway_d/d7_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_d7_2"
+  },
+  "steinway_d_d7_3": {
+    "sounds": ["lcaddon:steinway_d/d7_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_d7_3"
+  },
+  "steinway_d_ds7_0": {
+    "sounds": ["lcaddon:steinway_d/ds7_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds7_0"
+  },
+  "steinway_d_ds7_1": {
+    "sounds": ["lcaddon:steinway_d/ds7_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds7_1"
+  },
+  "steinway_d_ds7_2": {
+    "sounds": ["lcaddon:steinway_d/ds7_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds7_2"
+  },
+  "steinway_d_ds7_3": {
+    "sounds": ["lcaddon:steinway_d/ds7_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_ds7_3"
+  },
+  "steinway_d_e7_0": {
+    "sounds": ["lcaddon:steinway_d/e7_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_e7_0"
+  },
+  "steinway_d_e7_1": {
+    "sounds": ["lcaddon:steinway_d/e7_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_e7_1"
+  },
+  "steinway_d_e7_2": {
+    "sounds": ["lcaddon:steinway_d/e7_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_e7_2"
+  },
+  "steinway_d_e7_3": {
+    "sounds": ["lcaddon:steinway_d/e7_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_e7_3"
+  },
+  "steinway_d_f7_0": {
+    "sounds": ["lcaddon:steinway_d/f7_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_f7_0"
+  },
+  "steinway_d_f7_1": {
+    "sounds": ["lcaddon:steinway_d/f7_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_f7_1"
+  },
+  "steinway_d_f7_2": {
+    "sounds": ["lcaddon:steinway_d/f7_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_f7_2"
+  },
+  "steinway_d_f7_3": {
+    "sounds": ["lcaddon:steinway_d/f7_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_f7_3"
+  },
+  "steinway_d_fs7_0": {
+    "sounds": ["lcaddon:steinway_d/fs7_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs7_0"
+  },
+  "steinway_d_fs7_1": {
+    "sounds": ["lcaddon:steinway_d/fs7_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs7_1"
+  },
+  "steinway_d_fs7_2": {
+    "sounds": ["lcaddon:steinway_d/fs7_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs7_2"
+  },
+  "steinway_d_fs7_3": {
+    "sounds": ["lcaddon:steinway_d/fs7_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_fs7_3"
+  },
+  "steinway_d_g7_0": {
+    "sounds": ["lcaddon:steinway_d/g7_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_g7_0"
+  },
+  "steinway_d_g7_1": {
+    "sounds": ["lcaddon:steinway_d/g7_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_g7_1"
+  },
+  "steinway_d_g7_2": {
+    "sounds": ["lcaddon:steinway_d/g7_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_g7_2"
+  },
+  "steinway_d_g7_3": {
+    "sounds": ["lcaddon:steinway_d/g7_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_g7_3"
+  },
+  "steinway_d_gs7_0": {
+    "sounds": ["lcaddon:steinway_d/gs7_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs7_0"
+  },
+  "steinway_d_gs7_1": {
+    "sounds": ["lcaddon:steinway_d/gs7_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs7_1"
+  },
+  "steinway_d_gs7_2": {
+    "sounds": ["lcaddon:steinway_d/gs7_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs7_2"
+  },
+  "steinway_d_gs7_3": {
+    "sounds": ["lcaddon:steinway_d/gs7_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_gs7_3"
+  },
+  "steinway_d_a8_0": {
+    "sounds": ["lcaddon:steinway_d/a8_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_a8_0"
+  },
+  "steinway_d_a8_1": {
+    "sounds": ["lcaddon:steinway_d/a8_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_a8_1"
+  },
+  "steinway_d_a8_2": {
+    "sounds": ["lcaddon:steinway_d/a8_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_a8_2"
+  },
+  "steinway_d_a8_3": {
+    "sounds": ["lcaddon:steinway_d/a8_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_a8_3"
+  },
+  "steinway_d_as8_0": {
+    "sounds": ["lcaddon:steinway_d/as8_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_as8_0"
+  },
+  "steinway_d_as8_1": {
+    "sounds": ["lcaddon:steinway_d/as8_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_as8_1"
+  },
+  "steinway_d_as8_2": {
+    "sounds": ["lcaddon:steinway_d/as8_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_as8_2"
+  },
+  "steinway_d_as8_3": {
+    "sounds": ["lcaddon:steinway_d/as8_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_as8_3"
+  },
+  "steinway_d_b8_0": {
+    "sounds": ["lcaddon:steinway_d/b8_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_b8_0"
+  },
+  "steinway_d_b8_1": {
+    "sounds": ["lcaddon:steinway_d/b8_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_b8_1"
+  },
+  "steinway_d_b8_2": {
+    "sounds": ["lcaddon:steinway_d/b8_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_b8_2"
+  },
+  "steinway_d_b8_3": {
+    "sounds": ["lcaddon:steinway_d/b8_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_b8_3"
+  },
+  "steinway_d_c8_0": {
+    "sounds": ["lcaddon:steinway_d/c8_0"],
+    "subtitle": "lcaddon.sounds.steinway_d_c8_0"
+  },
+  "steinway_d_c8_1": {
+    "sounds": ["lcaddon:steinway_d/c8_1"],
+    "subtitle": "lcaddon.sounds.steinway_d_c8_1"
+  },
+  "steinway_d_c8_2": {
+    "sounds": ["lcaddon:steinway_d/c8_2"],
+    "subtitle": "lcaddon.sounds.steinway_d_c8_2"
+  },
+  "steinway_d_c8_3": {
+    "sounds": ["lcaddon:steinway_d/c8_3"],
+    "subtitle": "lcaddon.sounds.steinway_d_c8_3"
+  },
+  "steinway_456_a1": {
+    "sounds": ["lcaddon:steinway_456/a1"],
+    "subtitle": "lcaddon.sounds.steinway_456_a1"
+  },
+  "steinway_456_as1": {
+    "sounds": ["lcaddon:steinway_456/as1"],
+    "subtitle": "lcaddon.sounds.steinway_456_as1"
+  },
+  "steinway_456_b1": {
+    "sounds": ["lcaddon:steinway_456/b1"],
+    "subtitle": "lcaddon.sounds.steinway_456_b1"
+  },
+  "steinway_456_c1": {
+    "sounds": ["lcaddon:steinway_456/c1"],
+    "subtitle": "lcaddon.sounds.steinway_456_c1"
+  },
+  "steinway_456_cs1": {
+    "sounds": ["lcaddon:steinway_456/cs1"],
+    "subtitle": "lcaddon.sounds.steinway_456_cs1"
+  },
+  "steinway_456_d1": {
+    "sounds": ["lcaddon:steinway_456/d1"],
+    "subtitle": "lcaddon.sounds.steinway_456_d1"
+  },
+  "steinway_456_ds1": {
+    "sounds": ["lcaddon:steinway_456/ds1"],
+    "subtitle": "lcaddon.sounds.steinway_456_ds1"
+  },
+  "steinway_456_e1": {
+    "sounds": ["lcaddon:steinway_456/e1"],
+    "subtitle": "lcaddon.sounds.steinway_456_e1"
+  },
+  "steinway_456_f1": {
+    "sounds": ["lcaddon:steinway_456/f1"],
+    "subtitle": "lcaddon.sounds.steinway_456_f1"
+  },
+  "steinway_456_fs1": {
+    "sounds": ["lcaddon:steinway_456/fs1"],
+    "subtitle": "lcaddon.sounds.steinway_456_fs1"
+  },
+  "steinway_456_g1": {
+    "sounds": ["lcaddon:steinway_456/g1"],
+    "subtitle": "lcaddon.sounds.steinway_456_g1"
+  },
+  "steinway_456_gs1": {
+    "sounds": ["lcaddon:steinway_456/gs1"],
+    "subtitle": "lcaddon.sounds.steinway_456_gs1"
+  },
+  "steinway_456_a2": {
+    "sounds": ["lcaddon:steinway_456/a2"],
+    "subtitle": "lcaddon.sounds.steinway_456_a2"
+  },
+  "steinway_456_as2": {
+    "sounds": ["lcaddon:steinway_456/as2"],
+    "subtitle": "lcaddon.sounds.steinway_456_as2"
+  },
+  "steinway_456_b2": {
+    "sounds": ["lcaddon:steinway_456/b2"],
+    "subtitle": "lcaddon.sounds.steinway_456_b2"
+  },
+  "steinway_456_c2": {
+    "sounds": ["lcaddon:steinway_456/c2"],
+    "subtitle": "lcaddon.sounds.steinway_456_c2"
+  },
+  "steinway_456_cs2": {
+    "sounds": ["lcaddon:steinway_456/cs2"],
+    "subtitle": "lcaddon.sounds.steinway_456_cs2"
+  },
+  "steinway_456_d2": {
+    "sounds": ["lcaddon:steinway_456/d2"],
+    "subtitle": "lcaddon.sounds.steinway_456_d2"
+  },
+  "steinway_456_ds2": {
+    "sounds": ["lcaddon:steinway_456/ds2"],
+    "subtitle": "lcaddon.sounds.steinway_456_ds2"
+  },
+  "steinway_456_e2": {
+    "sounds": ["lcaddon:steinway_456/e2"],
+    "subtitle": "lcaddon.sounds.steinway_456_e2"
+  },
+  "steinway_456_f2": {
+    "sounds": ["lcaddon:steinway_456/f2"],
+    "subtitle": "lcaddon.sounds.steinway_456_f2"
+  },
+  "steinway_456_fs2": {
+    "sounds": ["lcaddon:steinway_456/fs2"],
+    "subtitle": "lcaddon.sounds.steinway_456_fs2"
+  },
+  "steinway_456_g2": {
+    "sounds": ["lcaddon:steinway_456/g2"],
+    "subtitle": "lcaddon.sounds.steinway_456_g2"
+  },
+  "steinway_456_gs2": {
+    "sounds": ["lcaddon:steinway_456/gs2"],
+    "subtitle": "lcaddon.sounds.steinway_456_gs2"
+  },
+  "steinway_456_a3": {
+    "sounds": ["lcaddon:steinway_456/a3"],
+    "subtitle": "lcaddon.sounds.steinway_456_a3"
+  },
+  "steinway_456_as3": {
+    "sounds": ["lcaddon:steinway_456/as3"],
+    "subtitle": "lcaddon.sounds.steinway_456_as3"
+  },
+  "steinway_456_b3": {
+    "sounds": ["lcaddon:steinway_456/b3"],
+    "subtitle": "lcaddon.sounds.steinway_456_b3"
+  },
+  "steinway_456_c3": {
+    "sounds": ["lcaddon:steinway_456/c3"],
+    "subtitle": "lcaddon.sounds.steinway_456_c3"
+  },
+  "steinway_456_cs3": {
+    "sounds": ["lcaddon:steinway_456/cs3"],
+    "subtitle": "lcaddon.sounds.steinway_456_cs3"
+  },
+  "steinway_456_d3": {
+    "sounds": ["lcaddon:steinway_456/d3"],
+    "subtitle": "lcaddon.sounds.steinway_456_d3"
+  },
+  "steinway_456_ds3": {
+    "sounds": ["lcaddon:steinway_456/ds3"],
+    "subtitle": "lcaddon.sounds.steinway_456_ds3"
+  },
+  "steinway_456_e3": {
+    "sounds": ["lcaddon:steinway_456/e3"],
+    "subtitle": "lcaddon.sounds.steinway_456_e3"
+  },
+  "steinway_456_f3": {
+    "sounds": ["lcaddon:steinway_456/f3"],
+    "subtitle": "lcaddon.sounds.steinway_456_f3"
+  },
+  "steinway_456_fs3": {
+    "sounds": ["lcaddon:steinway_456/fs3"],
+    "subtitle": "lcaddon.sounds.steinway_456_fs3"
+  },
+  "steinway_456_g3": {
+    "sounds": ["lcaddon:steinway_456/g3"],
+    "subtitle": "lcaddon.sounds.steinway_456_g3"
+  },
+  "steinway_456_gs3": {
+    "sounds": ["lcaddon:steinway_456/gs3"],
+    "subtitle": "lcaddon.sounds.steinway_456_gs3"
+  },
+  "steinway_456_a4": {
+    "sounds": ["lcaddon:steinway_456/a4"],
+    "subtitle": "lcaddon.sounds.steinway_456_a4"
+  },
+  "steinway_456_as4": {
+    "sounds": ["lcaddon:steinway_456/as4"],
+    "subtitle": "lcaddon.sounds.steinway_456_as4"
+  },
+  "steinway_456_b4": {
+    "sounds": ["lcaddon:steinway_456/b4"],
+    "subtitle": "lcaddon.sounds.steinway_456_b4"
+  },
+  "steinway_456_c4": {
+    "sounds": ["lcaddon:steinway_456/c4"],
+    "subtitle": "lcaddon.sounds.steinway_456_c4"
+  },
+  "steinway_456_cs4": {
+    "sounds": ["lcaddon:steinway_456/cs4"],
+    "subtitle": "lcaddon.sounds.steinway_456_cs4"
+  },
+  "steinway_456_d4": {
+    "sounds": ["lcaddon:steinway_456/d4"],
+    "subtitle": "lcaddon.sounds.steinway_456_d4"
+  },
+  "steinway_456_ds4": {
+    "sounds": ["lcaddon:steinway_456/ds4"],
+    "subtitle": "lcaddon.sounds.steinway_456_ds4"
+  },
+  "steinway_456_e4": {
+    "sounds": ["lcaddon:steinway_456/e4"],
+    "subtitle": "lcaddon.sounds.steinway_456_e4"
+  },
+  "steinway_456_f4": {
+    "sounds": ["lcaddon:steinway_456/f4"],
+    "subtitle": "lcaddon.sounds.steinway_456_f4"
+  },
+  "steinway_456_fs4": {
+    "sounds": ["lcaddon:steinway_456/fs4"],
+    "subtitle": "lcaddon.sounds.steinway_456_fs4"
+  },
+  "steinway_456_g4": {
+    "sounds": ["lcaddon:steinway_456/g4"],
+    "subtitle": "lcaddon.sounds.steinway_456_g4"
+  },
+  "steinway_456_gs4": {
+    "sounds": ["lcaddon:steinway_456/gs4"],
+    "subtitle": "lcaddon.sounds.steinway_456_gs4"
+  },
+  "steinway_456_a5": {
+    "sounds": ["lcaddon:steinway_456/a5"],
+    "subtitle": "lcaddon.sounds.steinway_456_a5"
+  },
+  "steinway_456_as5": {
+    "sounds": ["lcaddon:steinway_456/as5"],
+    "subtitle": "lcaddon.sounds.steinway_456_as5"
+  },
+  "steinway_456_b5": {
+    "sounds": ["lcaddon:steinway_456/b5"],
+    "subtitle": "lcaddon.sounds.steinway_456_b5"
+  },
+  "steinway_456_c5": {
+    "sounds": ["lcaddon:steinway_456/c5"],
+    "subtitle": "lcaddon.sounds.steinway_456_c5"
+  },
+  "steinway_456_cs5": {
+    "sounds": ["lcaddon:steinway_456/cs5"],
+    "subtitle": "lcaddon.sounds.steinway_456_cs5"
+  },
+  "steinway_456_d5": {
+    "sounds": ["lcaddon:steinway_456/d5"],
+    "subtitle": "lcaddon.sounds.steinway_456_d5"
+  },
+  "steinway_456_ds5": {
+    "sounds": ["lcaddon:steinway_456/ds5"],
+    "subtitle": "lcaddon.sounds.steinway_456_ds5"
+  },
+  "steinway_456_e5": {
+    "sounds": ["lcaddon:steinway_456/e5"],
+    "subtitle": "lcaddon.sounds.steinway_456_e5"
+  },
+  "steinway_456_f5": {
+    "sounds": ["lcaddon:steinway_456/f5"],
+    "subtitle": "lcaddon.sounds.steinway_456_f5"
+  },
+  "steinway_456_fs5": {
+    "sounds": ["lcaddon:steinway_456/fs5"],
+    "subtitle": "lcaddon.sounds.steinway_456_fs5"
+  },
+  "steinway_456_g5": {
+    "sounds": ["lcaddon:steinway_456/g5"],
+    "subtitle": "lcaddon.sounds.steinway_456_g5"
+  },
+  "steinway_456_gs5": {
+    "sounds": ["lcaddon:steinway_456/gs5"],
+    "subtitle": "lcaddon.sounds.steinway_456_gs5"
+  },
+  "steinway_456_a6": {
+    "sounds": ["lcaddon:steinway_456/a6"],
+    "subtitle": "lcaddon.sounds.steinway_456_a6"
+  },
+  "steinway_456_as6": {
+    "sounds": ["lcaddon:steinway_456/as6"],
+    "subtitle": "lcaddon.sounds.steinway_456_as6"
+  },
+  "steinway_456_b6": {
+    "sounds": ["lcaddon:steinway_456/b6"],
+    "subtitle": "lcaddon.sounds.steinway_456_b6"
+  },
+  "steinway_456_c6": {
+    "sounds": ["lcaddon:steinway_456/c6"],
+    "subtitle": "lcaddon.sounds.steinway_456_c6"
+  },
+  "steinway_456_cs6": {
+    "sounds": ["lcaddon:steinway_456/cs6"],
+    "subtitle": "lcaddon.sounds.steinway_456_cs6"
+  },
+  "steinway_456_d6": {
+    "sounds": ["lcaddon:steinway_456/d6"],
+    "subtitle": "lcaddon.sounds.steinway_456_d6"
+  },
+  "steinway_456_ds6": {
+    "sounds": ["lcaddon:steinway_456/ds6"],
+    "subtitle": "lcaddon.sounds.steinway_456_ds6"
+  },
+  "steinway_456_e6": {
+    "sounds": ["lcaddon:steinway_456/e6"],
+    "subtitle": "lcaddon.sounds.steinway_456_e6"
+  },
+  "steinway_456_f6": {
+    "sounds": ["lcaddon:steinway_456/f6"],
+    "subtitle": "lcaddon.sounds.steinway_456_f6"
+  },
+  "steinway_456_fs6": {
+    "sounds": ["lcaddon:steinway_456/fs6"],
+    "subtitle": "lcaddon.sounds.steinway_456_fs6"
+  },
+  "steinway_456_g6": {
+    "sounds": ["lcaddon:steinway_456/g6"],
+    "subtitle": "lcaddon.sounds.steinway_456_g6"
+  },
+  "steinway_456_gs6": {
+    "sounds": ["lcaddon:steinway_456/gs6"],
+    "subtitle": "lcaddon.sounds.steinway_456_gs6"
+  },
+  "steinway_456_a7": {
+    "sounds": ["lcaddon:steinway_456/a7"],
+    "subtitle": "lcaddon.sounds.steinway_456_a7"
+  },
+  "steinway_456_as7": {
+    "sounds": ["lcaddon:steinway_456/as7"],
+    "subtitle": "lcaddon.sounds.steinway_456_as7"
+  },
+  "steinway_456_b7": {
+    "sounds": ["lcaddon:steinway_456/b7"],
+    "subtitle": "lcaddon.sounds.steinway_456_b7"
+  },
+  "steinway_456_c7": {
+    "sounds": ["lcaddon:steinway_456/c7"],
+    "subtitle": "lcaddon.sounds.steinway_456_c7"
+  },
+  "steinway_456_cs7": {
+    "sounds": ["lcaddon:steinway_456/cs7"],
+    "subtitle": "lcaddon.sounds.steinway_456_cs7"
+  },
+  "steinway_456_d7": {
+    "sounds": ["lcaddon:steinway_456/d7"],
+    "subtitle": "lcaddon.sounds.steinway_456_d7"
+  },
+  "steinway_456_ds7": {
+    "sounds": ["lcaddon:steinway_456/ds7"],
+    "subtitle": "lcaddon.sounds.steinway_456_ds7"
+  },
+  "steinway_456_e7": {
+    "sounds": ["lcaddon:steinway_456/e7"],
+    "subtitle": "lcaddon.sounds.steinway_456_e7"
+  },
+  "steinway_456_f7": {
+    "sounds": ["lcaddon:steinway_456/f7"],
+    "subtitle": "lcaddon.sounds.steinway_456_f7"
+  },
+  "steinway_456_fs7": {
+    "sounds": ["lcaddon:steinway_456/fs7"],
+    "subtitle": "lcaddon.sounds.steinway_456_fs7"
+  },
+  "steinway_456_g7": {
+    "sounds": ["lcaddon:steinway_456/g7"],
+    "subtitle": "lcaddon.sounds.steinway_456_g7"
+  },
+  "steinway_456_gs7": {
+    "sounds": ["lcaddon:steinway_456/gs7"],
+    "subtitle": "lcaddon.sounds.steinway_456_gs7"
+  },
+  "steinway_456_a8": {
+    "sounds": ["lcaddon:steinway_456/a8"],
+    "subtitle": "lcaddon.sounds.steinway_456_a8"
+  },
+  "steinway_456_as8": {
+    "sounds": ["lcaddon:steinway_456/as8"],
+    "subtitle": "lcaddon.sounds.steinway_456_as8"
+  },
+  "steinway_456_b8": {
+    "sounds": ["lcaddon:steinway_456/b8"],
+    "subtitle": "lcaddon.sounds.steinway_456_b8"
+  },
+  "steinway_456_c8": {
+    "sounds": ["lcaddon:steinway_456/c8"],
+    "subtitle": "lcaddon.sounds.steinway_456_c8"
+  }
+}

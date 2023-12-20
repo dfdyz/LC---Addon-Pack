@@ -1,0 +1,12 @@
+{
+  "block.lcaddon.roland_fp30x": "Roland FP-30X",
+  "block.lcaddon.test_piano": "Test Piano",
+  "block.lcaddon.epiano_chair_block": "Folding Piano Chair",
+  "block.lcaddon.steinway_d": "Steinway D274",
+  "block.lcaddon.piano_chair_block": "Grand Piano Chair",
+
+
+  "lcaddon.ui.instrument.ptq6_steinway_d": "Steinway D(4 layer sampling / 1 channel)",
+  "lcaddon.ui.instrument.test1": "Electronic Organ",
+  "lcaddon.ui.instrument.ptq6_steinway_456": "Steinway 456(1 layer sampling / 2 channel)"
+}

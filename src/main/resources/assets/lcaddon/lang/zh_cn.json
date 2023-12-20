@@ -1,0 +1,12 @@
+{
+  "block.lcaddon.roland_fp30x": "Roland FP-30X",
+  "block.lcaddon.test_piano": "测试用",
+  "block.lcaddon.epiano_chair_block": "便携电钢凳",
+  "block.lcaddon.steinway_d": "施坦威D274",
+  "block.lcaddon.piano_chair_block": "大琴凳",
+
+  "lcaddon.ui.instrument.ptq6_steinway_d": "Steinway D(4级力度-单声道)",
+  "lcaddon.ui.instrument.test1": "电子琴",
+  "lcaddon.ui.instrument.ptq6_steinway_456": "Steinway 456(单声道)",
+  "block.lcaddon.steinway_d274": "Steinway D"
+}

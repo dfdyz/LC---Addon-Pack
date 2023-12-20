@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "lcaddon:block/roland_fp30x"},
+    "facing=south": { "model":"lcaddon:block/roland_fp30x", "y" : 180},
+    "facing=west": { "model":"lcaddon:block/roland_fp30x", "y" : 270},
+    "facing=east": { "model":"lcaddon:block/roland_fp30x", "y" : 90}
+  }
+}

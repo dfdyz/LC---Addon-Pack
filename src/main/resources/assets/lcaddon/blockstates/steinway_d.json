@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "lcaddon:block/steinway_d274"},
+    "facing=south": { "model":"lcaddon:block/steinway_d274", "y" : 180},
+    "facing=west": { "model":"lcaddon:block/steinway_d274", "y" : 270},
+    "facing=east": { "model":"lcaddon:block/steinway_d274", "y" : 90}
+  }
+}
