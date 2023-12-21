@@ -1,13 +1,13 @@
 package com.dfdyz.lcaddon.network;
 
 import com.dfdyz.lcaddon.LCAddon;
+import com.dfdyz.lcaddon.network.ClientPack.CP_UpdateLampColor;
 import com.dfdyz.lcaddon.network.ClientPack.CP_UpdateAnimatedPiano;
 import com.dfdyz.lcaddon.network.ServerPack.SP_UpdateAnimatedPiano;
-import net.minecraft.core.BlockPos;
+import com.dfdyz.lcaddon.network.ServerPack.SP_UpdateLampColor;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.world.entity.Entity;
-import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.entity.BlockEntity;
 import net.minecraftforge.network.NetworkDirection;
 import net.minecraftforge.network.NetworkRegistry;
@@ -24,7 +24,7 @@ public class PacketMgr {
     public PacketMgr() {
     }
 
-    public static <MSG> void SendToServer(MSG msg){
+    public static <MSG> void sendToServer(MSG msg){
         CHANNEL.sendToServer(msg);
     }
 
@@ -59,5 +59,7 @@ public class PacketMgr {
     public static void Init(){
         CHANNEL.registerMessage(index++, CP_UpdateAnimatedPiano.class, CP_UpdateAnimatedPiano::encode, CP_UpdateAnimatedPiano::decode, CP_UpdateAnimatedPiano::onServerMessageReceived, Optional.of(NetworkDirection.PLAY_TO_SERVER));
         CHANNEL.registerMessage(index++, SP_UpdateAnimatedPiano.class, SP_UpdateAnimatedPiano::encode, SP_UpdateAnimatedPiano::decode, SP_UpdateAnimatedPiano::onClientMessageReceived, Optional.of(NetworkDirection.PLAY_TO_CLIENT));
+        CHANNEL.registerMessage(index++, CP_UpdateLampColor.class, CP_UpdateLampColor::encode, CP_UpdateLampColor::decode, CP_UpdateLampColor::onServerMessageReceived, Optional.of(NetworkDirection.PLAY_TO_SERVER));
+        CHANNEL.registerMessage(index++, SP_UpdateLampColor.class, SP_UpdateLampColor::encode, SP_UpdateLampColor::decode, SP_UpdateLampColor::onClientMessageReceived, Optional.of(NetworkDirection.PLAY_TO_CLIENT));
     }
 }

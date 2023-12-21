@@ -3,18 +3,11 @@ package com.dfdyz.lcaddon.world.tileentity;
 import com.dfdyz.lcaddon.network.ClientPack.CP_UpdateAnimatedPiano;
 import com.dfdyz.lcaddon.network.PacketMgr;
 import com.dfdyz.lcaddon.registry.LCATileEntities;
-import com.dfdyz.lcaddon.utils.TileEntityManager;
 import net.minecraft.core.BlockPos;
-import net.minecraft.nbt.CompoundTag;
-import net.minecraft.network.Connection;
-import net.minecraft.network.protocol.Packet;
-import net.minecraft.network.protocol.game.ClientGamePacketListener;
-import net.minecraft.network.protocol.game.ClientboundBlockEntityDataPacket;
 import net.minecraft.world.level.block.entity.BlockEntityType;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.api.distmarker.OnlyIn;
-import net.minecraftforge.fml.loading.FMLEnvironment;
 
 public class AnimatedPianoTileEntity extends PatchedPianoTileEntity {
     //public Instruments.Registry instrument = Instruments.Test1;
@@ -38,12 +31,12 @@ public class AnimatedPianoTileEntity extends PatchedPianoTileEntity {
 
     @OnlyIn(Dist.CLIENT)
     public void setKeyClient(int note, boolean state){
-        PacketMgr.SendToServer(new CP_UpdateAnimatedPiano(this.worldPosition.getX(), this.worldPosition.getY(), this.worldPosition.getZ(), note, state));
+        PacketMgr.sendToServer(new CP_UpdateAnimatedPiano(this.worldPosition.getX(), this.worldPosition.getY(), this.worldPosition.getZ(), note, state));
     }
 
     @OnlyIn(Dist.CLIENT)
     public void ResetAllKeysClient(){
-        PacketMgr.SendToServer(new CP_UpdateAnimatedPiano(this.worldPosition.getX(), this.worldPosition.getY(), this.worldPosition.getZ(), -100, false));
+        PacketMgr.sendToServer(new CP_UpdateAnimatedPiano(this.worldPosition.getX(), this.worldPosition.getY(), this.worldPosition.getZ(), -100, false));
     }
 
     public void ResetAllKeys(){

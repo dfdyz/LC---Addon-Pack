@@ -1,6 +1,7 @@
 package com.dfdyz.lcaddon.client.gui;
 
 import com.dfdyz.lcaddon.client.gui.screens.ElectronicPianoScreen;
+import com.dfdyz.lcaddon.client.gui.screens.PatchedPianoScreen;
 import com.dfdyz.lcaddon.world.tileentity.ElectronicPianoTileEntity;
 import com.dfdyz.lcaddon.world.tileentity.PatchedPianoTileEntity;
 import net.minecraft.client.Minecraft;
@@ -15,7 +16,7 @@ public class ScreenMgr {
     public static void openPianoScreen(Instrument instrument, BlockPos pos, PatchedPianoTileEntity pianoBlockEntity, int distance) {
         if (checkDistance(pos, 4)) {
             if (pianoBlockEntity.pianoScreen == null) {
-                pianoBlockEntity.pianoScreen = new ClavichordScreen(instrument, pos, ComponentUtils.literal("钢琴"),"c4", "b6");
+                pianoBlockEntity.pianoScreen = new PatchedPianoScreen(instrument, pos, ComponentUtils.literal("钢琴"),"c4", "b6");
             }
 
             Minecraft.getInstance().tell(() -> {

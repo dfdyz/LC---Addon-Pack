@@ -17,7 +17,7 @@ import org.ywzj.midi.util.MidiUtils;
 import java.util.Collections;
 import java.util.UUID;
 
-public class ElectronicPianoScreen extends ClavichordScreen {
+public class ElectronicPianoScreen extends PatchedPianoScreen {
     private Button ChangeInstrumentButton;
 
     public ElectronicPianoScreen(Instrument instrument, BlockPos pos, Component titleIn, String keyStart, String keyEnd) {
@@ -27,7 +27,7 @@ public class ElectronicPianoScreen extends ClavichordScreen {
     @Override
     protected void init() {
         super.init();
-        this.ChangeInstrumentButton = new CommonButton(this.width / 2 - 190, this.height / 2 + 60, 160, 20,
+        this.ChangeInstrumentButton = new CommonButton(this.width / 2 - 190, this.height / 2 + 85, 160, 20,
                 Component.literal(instrument.getName()),
                 (button) ->
                 {

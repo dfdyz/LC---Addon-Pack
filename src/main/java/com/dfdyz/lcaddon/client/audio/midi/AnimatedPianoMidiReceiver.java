@@ -31,7 +31,6 @@ public class AnimatedPianoMidiReceiver extends PatchedPianoMidiReceiver{
 
     public AnimatedPianoMidiReceiver(MultiSamplingInstrument instrument, Player player, Vec3 pos) {
         super(instrument, player, pos);
-
         Level level = player.level();
         if(pos == null){
             Vec3 p = player.position();

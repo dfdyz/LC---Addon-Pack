@@ -27,7 +27,6 @@ public class TileEntityManager {
                     && te.getLevel().dimension().equals(level.dimension())
                     && te.getBlockPos().getCenter().distanceTo(pos) < min
                     && te.getClass().equals(clazz)
-
             ){
                 min_te.set((T) te);
             }

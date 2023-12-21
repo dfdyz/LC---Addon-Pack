@@ -2,6 +2,8 @@ package com.dfdyz.lcaddon.registry;
 
 import com.dfdyz.lcaddon.LCAddon;
 
+import com.dfdyz.lcaddon.client.models.entity.MoonLampModel;
+import com.dfdyz.lcaddon.client.renderer.entity.MoonLampRenderer;
 import com.dfdyz.lcaddon.client.renderer.tileentity.AnimatedPianoAdditionalRenderer;
 import net.minecraft.client.renderer.ItemBlockRenderTypes;
 import net.minecraft.client.renderer.RenderType;
@@ -24,9 +26,23 @@ public class LCARenderers {
     @OnlyIn(Dist.CLIENT)
     @SubscribeEvent
     public static void registerRenderer(EntityRenderersEvent.RegisterRenderers event){
-        //event.registerEntityRenderer(LCAEntities.FAKE_PLAYER.get(), FakePlayerRenderer::new);
+        registerTileEntityRenderers(event);
+        registerEntityRenderers(event);
     }
 
+    protected static void registerTileEntityRenderers(EntityRenderersEvent.RegisterRenderers event){
+
+    }
+
+
+    protected static void registerEntityRenderers(EntityRenderersEvent.RegisterRenderers event){
+        //event.registerEntityRenderer(LCAEntities.FAKE_PLAYER.get(), FakePlayerRenderer::new);
+        event.registerEntityRenderer(LCAEntities.MOON_LAMP.get(), (c) -> {
+            return new MoonLampRenderer(c,
+                    new MoonLampModel(c.bakeLayer(MoonLampModel.MOONLAMP_LayerLocation)),
+                    0);
+        });
+    }
 
 
     public static void onRenderTypeSetup() {
