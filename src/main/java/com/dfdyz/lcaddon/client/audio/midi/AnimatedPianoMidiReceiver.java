@@ -33,12 +33,12 @@ public class AnimatedPianoMidiReceiver extends PatchedPianoMidiReceiver{
         super(instrument, player, pos);
         Level level = player.level();
         if(pos == null){
-            Vec3 p = player.position();
-            tileEntity = TileEntityManager.GetNearestInRange(level, p, 4, AnimatedPianoTileEntity.class);
-
-            if(tileEntity != null){
-                System.out.println("Found Animated Piano At " + tileEntity.getBlockPos());
-            }
+            //Vec3 p = player.position();
+            //tileEntity = TileEntityManager.GetNearestInRange(level, p, 4, AnimatedPianoTileEntity.class);
+            tileEntity = null;
+            //if(tileEntity != null){
+                //System.out.println("Found Animated Piano At " + tileEntity.getBlockPos());
+            //}
         }else {
             tileEntity = (AnimatedPianoTileEntity) level.getBlockEntity(new BlockPos((int)pos.x, ((int)pos.y), (int)pos.z));
         }

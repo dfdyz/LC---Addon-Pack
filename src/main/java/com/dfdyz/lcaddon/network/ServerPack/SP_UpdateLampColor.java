@@ -2,6 +2,7 @@ package com.dfdyz.lcaddon.network.ServerPack;
 
 import com.dfdyz.lcaddon.network.ClientPack.CP_UpdateLampColor;
 import com.dfdyz.lcaddon.world.entity.MoonLampEntity;
+import net.minecraft.client.Minecraft;
 import net.minecraft.network.FriendlyByteBuf;
 import net.minecraft.world.entity.Entity;
 import net.minecraftforge.network.NetworkEvent;
@@ -58,10 +59,11 @@ public class SP_UpdateLampColor {
     }
 
     public static void onClientMessageReceived(SP_UpdateLampColor msg, Supplier<NetworkEvent.Context> context){
+
         NetworkEvent.Context ctx = context.get();
         ctx.setPacketHandled(true);
         ctx.enqueueWork(() -> {
-            Entity entity = ctx.getSender().level().getEntities().get(msg.lamp);
+            Entity entity = Minecraft.getInstance().level.getEntities().get(msg.lamp);
             if(entity != null && entity instanceof MoonLampEntity lamp && !lamp.isRemoved()){
                 lamp.syncColor(new Vector4f(msg.r, msg.g, msg.b, msg.a));
             }

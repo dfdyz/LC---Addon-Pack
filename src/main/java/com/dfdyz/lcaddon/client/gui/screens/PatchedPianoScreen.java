@@ -47,7 +47,7 @@ public class PatchedPianoScreen extends ClavichordScreen {
                 Component.literal((linkedLamp != null && !linkedLamp.isRemoved()) ? linkedLamp.position().toString() :  "LinkLamp" ),
                 (button) ->
                 {
-                    linkedLamp = EntityManager.GetNearestInRange(minecraft.level, pos, 5f, MoonLampEntity.class);
+                    linkedLamp = EntityManager.GetNearestInRange(minecraft.level, pos, 3f, MoonLampEntity.class);
                     LinkLamp.setMessage(Component.literal((linkedLamp != null && !linkedLamp.isRemoved()) ? linkedLamp.position().toString() :  "LinkLamp" ));
                 });
         this.addRenderableWidget(this.LinkLamp);

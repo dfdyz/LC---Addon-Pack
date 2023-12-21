@@ -5,6 +5,7 @@ import com.dfdyz.lcaddon.client.gui.ScreenMgr;
 import com.dfdyz.lcaddon.network.PacketMgr;
 import com.dfdyz.lcaddon.network.ServerPack.SP_UpdateAnimatedPiano;
 import com.dfdyz.lcaddon.registry.LCATileEntities;
+import com.dfdyz.lcaddon.utils.TileEntityManager;
 import com.dfdyz.lcaddon.world.tileentity.AnimatedPianoTileEntity;
 import com.dfdyz.lcaddon.world.tileentity.PatchedPianoTileEntity;
 import net.minecraft.core.BlockPos;
@@ -56,7 +57,9 @@ public class AnimatedPianoBlock extends PatchedPianoBlock {
     }
 
     public @Nullable BlockEntity newBlockEntity(BlockPos pPos, BlockState pState) {
-        return new AnimatedPianoTileEntity(pPos, pState);
+        AnimatedPianoTileEntity entity = new AnimatedPianoTileEntity(pPos, pState);
+        //TileEntityManager.AddTile(entity);
+        return entity;
     }
 
 

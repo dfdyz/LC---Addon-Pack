@@ -53,7 +53,7 @@ public abstract class MultiSamplingMidiReceiver extends MidiReceiver {
                             if(m instanceof ShortMessage sm){
                                 MidiTrackUtils.LampColMsg lm = MidiTrackUtils.LampColMsg.fromShortMsg(sm);
                                 e = new MidiEvent(lm, e.getTick());
-                                System.out.println("  Lamp event at: "+e.getTick());
+                                //System.out.println("  Lamp event at: "+e.getTick());
                             }
                             events.add(e);
                         }
@@ -84,8 +84,7 @@ public abstract class MultiSamplingMidiReceiver extends MidiReceiver {
                     if(message instanceof MidiTrackUtils.LampColMsg lampColMsg){
                         sendLampMsg(lampColMsg);
                     }
-                    else
-                        send(message, event.getTick());
+                    else send(message, event.getTick());
                     previousTimestamp = event.getTick();
                 }
             } catch (Exception exception) {

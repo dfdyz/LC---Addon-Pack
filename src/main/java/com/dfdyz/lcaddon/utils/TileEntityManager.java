@@ -19,16 +19,20 @@ public class TileEntityManager {
     }
 
     public static <T extends BlockEntity> T GetNearestInRange(Level level, Vec3 pos, float d, Class<T> clazz){
-        float min = d;
+        Tiles.removeIf(e -> e == null || e.isRemoved());
+
+        AtomicReference<Float>  min = new AtomicReference<>(d);
         AtomicReference<T> min_te = new AtomicReference<>();
+
         Tiles.forEach((te)->{
             if(te.hasLevel()
                     && !te.isRemoved()
                     && te.getLevel().dimension().equals(level.dimension())
-                    && te.getBlockPos().getCenter().distanceTo(pos) < min
+                    && te.getBlockPos().getCenter().distanceTo(pos) < min.get()
                     && te.getClass().equals(clazz)
             ){
                 min_te.set((T) te);
+                min.set((float) te.getBlockPos().getCenter().distanceTo(pos));
             }
         });
         return min_te.get();

@@ -3,6 +3,8 @@ package com.dfdyz.lcaddon.world.block;
 import com.dfdyz.lcaddon.client.gui.ScreenMgr;
 import com.dfdyz.lcaddon.registry.LCATileEntities;
 import com.dfdyz.lcaddon.utils.BlockShapeUtils;
+import com.dfdyz.lcaddon.utils.TileEntityManager;
+import com.dfdyz.lcaddon.world.tileentity.AnimatedPianoTileEntity;
 import com.dfdyz.lcaddon.world.tileentity.ElectronicPianoTileEntity;
 import com.dfdyz.lcaddon.world.tileentity.PatchedPianoTileEntity;
 import net.minecraft.core.BlockPos;
@@ -42,6 +44,8 @@ public class ElectronicPianoBlock extends AnimatedPianoBlock {
 
     @Override
     public @Nullable BlockEntity newBlockEntity(BlockPos pPos, BlockState pState) {
-        return new ElectronicPianoTileEntity(pPos, pState);
+        ElectronicPianoTileEntity entity = new ElectronicPianoTileEntity(pPos, pState);
+        //TileEntityManager.AddTile(entity);
+        return entity;
     }
 }

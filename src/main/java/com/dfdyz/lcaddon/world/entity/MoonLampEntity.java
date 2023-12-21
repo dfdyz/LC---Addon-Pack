@@ -2,6 +2,7 @@ package com.dfdyz.lcaddon.world.entity;
 
 import com.dfdyz.lcaddon.network.ClientPack.CP_UpdateLampColor;
 import com.dfdyz.lcaddon.network.PacketMgr;
+import com.dfdyz.lcaddon.network.ServerPack.SP_UpdateLampColor;
 import com.dfdyz.lcaddon.registry.LCAEntities;
 import com.dfdyz.lcaddon.utils.EntityManager;
 import com.dfdyz.lcaddon.world.tileentity.PatchedPianoTileEntity;
@@ -20,7 +21,9 @@ import java.util.List;
 public class MoonLampEntity extends LivingEntity {
     public MoonLampEntity(EntityType<? extends LivingEntity> type, Level level) {
         super(LCAEntities.MOON_LAMP.get(), level);
-        EntityManager.AddEntity(this);
+        if(level.isClientSide()){
+            EntityManager.AddEntity(this);
+        }
     }
 
     protected Vector4f targetColor = new Vector4f(1);
@@ -35,24 +38,26 @@ public class MoonLampEntity extends LivingEntity {
     }
 
     public void syncColor(Vector4f target){
-        targetColor= target;
-        dirty = false;
+        targetColor = target;
+        //System.out.println("sync___");
+        //dirty = false;
     }
 
     public void setColorR(float target){
-        targetColor.set(target, targetColor.y, targetColor.z, targetColor.w);
+        targetColor = new Vector4f(target, targetColor.y, targetColor.z, targetColor.w);
+        //System.out.println(String.format("target: %.2f, %.2f, %.2f, %s",targetColor.x, targetColor.y,targetColor.z, level().isClientSide ? "C":"S"));
         dirty = true;
     }
     public void setColorG(float target){
-        targetColor.set(targetColor.x, target, targetColor.z, targetColor.w);
+        targetColor = new Vector4f(targetColor.x, target, targetColor.z, targetColor.w);
         dirty = true;
     }
     public void setColorB(float target){
-        targetColor.set(targetColor.x, targetColor.y, target, targetColor.w);
+        targetColor = new Vector4f(targetColor.x, targetColor.y, target, targetColor.w);
         dirty = true;
     }
     public void setColorA(float target){
-        targetColor.set(targetColor.x, targetColor.y, targetColor.z, target);
+        targetColor = new Vector4f(targetColor.x, targetColor.y, targetColor.z, target);
         dirty = true;
     }
 
@@ -84,8 +89,11 @@ public class MoonLampEntity extends LivingEntity {
     @Override
     public void addAdditionalSaveData(CompoundTag tag) {
         super.addAdditionalSaveData(tag);
+
         //tag.put("targetColor", packColor());
     }
+
+
 
     private CompoundTag packColor(){
         CompoundTag col = new CompoundTag();
@@ -116,6 +124,7 @@ public class MoonLampEntity extends LivingEntity {
     public void tick() {
         this.setDeltaMovement(Vec3.ZERO);
         super.tick();
+
         //Client only
         if(level().isClientSide){
             if(dirty){
@@ -130,11 +139,16 @@ public class MoonLampEntity extends LivingEntity {
                 );
                 dirty = false;
             }
-            prevColor = currentColor;
+
+            prevColor.set(currentColor);
             currentColor = currentColor.lerp(targetColor, 0.6f, new Vector4f());
+
+            //System.out.println(String.format("target: %.2f, %.2f, %.2f",targetColor.x, targetColor.y,targetColor.z));
         }
         else {
+            if(dirty){
 
+            }
         }
     }
 
