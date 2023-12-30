@@ -166,7 +166,7 @@ dependencies {
     // This maps to ./libs/coolmod-${mc_version}-${coolmod_version}.jar
     // The group id is ignored when searching -- in this case, it is "blank"
     // implementation fg.deobf("blank:coolmod-${mc_version}:${coolmod_version}")
-    implementation fg.deobf("libs:ywzjmidi-1.20.1:1.7.0")
+    implementation fg.deobf("libs:ywzjmidi-1.20.1:1.7.1")
     annotationProcessor 'org.spongepowered:mixin:0.8.5:processor'
 
     // For more info:

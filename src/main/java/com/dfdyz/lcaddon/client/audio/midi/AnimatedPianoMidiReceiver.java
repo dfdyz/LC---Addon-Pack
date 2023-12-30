@@ -6,6 +6,7 @@ import com.dfdyz.lcaddon.utils.ReflectionUtils;
 import com.dfdyz.lcaddon.utils.ThreadUtils;
 import com.dfdyz.lcaddon.utils.TileEntityManager;
 import com.dfdyz.lcaddon.world.tileentity.AnimatedPianoTileEntity;
+import net.minecraft.client.Minecraft;
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.level.Level;

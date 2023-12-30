@@ -6,6 +6,7 @@ import com.dfdyz.lcaddon.client.gui.screens.PatchedPianoScreen;
 import com.dfdyz.lcaddon.mixins.MidiReceiverAccessor;
 import com.dfdyz.lcaddon.utils.MidiTrackUtils;
 import com.dfdyz.lcaddon.utils.ReflectionUtils;
+import net.minecraft.client.Minecraft;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.phys.Vec3;
 import org.ywzj.midi.audio.NotePlayer;
@@ -65,7 +66,7 @@ public abstract class MultiSamplingMidiReceiver extends MidiReceiver {
                     return events.stream();
                 }).sorted(Comparator.comparingLong(MidiEvent::getTick)).collect(Collectors.toList());
                 for (MidiEvent event : singleTrack) {
-                    if (!receiver.isPlaying()) {
+                    if (!receiver.isPlaying() ||  Minecraft.getInstance().player == null) {
                         break;
                     }
                     if (event.getMessage() instanceof MetaMessage metaMessage) {
@@ -90,6 +91,7 @@ public abstract class MultiSamplingMidiReceiver extends MidiReceiver {
             } catch (Exception exception) {
                 exception.printStackTrace();
             } finally {
+                if(Minecraft.getInstance().player == null) return;
                 ((MidiReceiverAccessor)receiver).setPlayingState(false);
                 stopAllKeys();
                 stopPose();
