@@ -1,4 +1,11 @@
 {
+  "synthesizer": {
+    "subtitle": "lcaddon.sounds.synthesizer",
+    "sounds": [{
+      "name": "random/orb",
+      "stream": true
+    }]
+  },
   "test1_a1": {
     "sounds": ["lcaddon:test1/a1"],
     "subtitle": "lcaddon.sounds.test1_a1"

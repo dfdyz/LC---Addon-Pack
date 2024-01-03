@@ -8,6 +8,8 @@ import net.minecraft.resources.ResourceLocation;
 import net.minecraft.sounds.SoundEvent;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
+import net.minecraftforge.registries.RegistryObject;
+import org.ywzj.midi.YwzjMidi;
 import org.ywzj.midi.all.AllSounds;
 import org.ywzj.midi.instrument.Instrument;
 import org.ywzj.midi.util.MidiUtils;
@@ -32,6 +34,10 @@ public class LCASoundEvents {
         SOUND_EVENTS.register(soundName, () -> {
             return soundEvent;
         });
+    }
+
+    public static RegistryObject<SoundEvent> registerSoundEvent(String name) {
+        return SOUND_EVENTS.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(LCAddon.MODID, name)));
     }
 
     private static void registerKeysSoundNormal(MultiSamplingInstrument instrument, int note) {
@@ -64,4 +70,14 @@ public class LCASoundEvents {
         ALL_SOUND_RESOURCE.forEach((e)->{e.write(obj);});
         System.out.println("LCA Sound Source Json\n\n"+obj.toString()+"\n\n");
     }
+
+    public static void prevInit(){
+
+    }
+
+    public static final  RegistryObject<SoundEvent> SYNTHESIZER;
+    static {
+        SYNTHESIZER = LCASoundEvents.registerSoundEvent("synthesizer");
+    }
+
 }

@@ -29,6 +29,7 @@ public class LCAddon
         bus_mod.addListener(this::setupCommon);
         bus_mod.addListener(this::setupClient);
         LCAInstruments.prevRegister();
+        LCASoundEvents.prevInit();
         LCASoundEvents.SOUND_EVENTS.register(bus_mod);
         LCAEntities.ENTITIES.register(bus_mod);
         LCABlocks.BLOCKS.register(bus_mod);
