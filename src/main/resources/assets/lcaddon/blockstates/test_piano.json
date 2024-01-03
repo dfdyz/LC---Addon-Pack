@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "lcaddon:block/test_piano"},
+    "facing=south": { "model":"lcaddon:block/test_piano", "y" : 180},
+    "facing=west": { "model":"lcaddon:block/test_piano", "y" : 270},
+    "facing=east": { "model":"lcaddon:block/test_piano", "y" : 90}
+  }
+}
