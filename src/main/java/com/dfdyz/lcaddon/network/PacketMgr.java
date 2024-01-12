@@ -16,10 +16,14 @@ import net.minecraftforge.network.simple.SimpleChannel;
 
 import java.util.Optional;
 
+import static com.dfdyz.lcaddon.LCAddon.VERSION;
+
 public class PacketMgr {
-    public static final SimpleChannel CHANNEL = NetworkRegistry.ChannelBuilder.named(new ResourceLocation(LCAddon.MODID, LCAddon.MODID+"_channel")).networkProtocolVersion(() -> {
-        return "1.1";
-    }).clientAcceptedVersions("1.1"::equals).serverAcceptedVersions("1.1"::equals).simpleChannel();
+    public static final SimpleChannel CHANNEL = NetworkRegistry.ChannelBuilder
+            .named(new ResourceLocation(LCAddon.MODID, LCAddon.MODID+"_channel"))
+            .networkProtocolVersion(() -> {return VERSION;})
+            .clientAcceptedVersions(VERSION::equals)
+            .serverAcceptedVersions(VERSION::equals).simpleChannel();
 
     public PacketMgr() {
     }
