@@ -53,9 +53,9 @@ public class EntityManager {
     }
 
     @OnlyIn(Dist.CLIENT)
-    @Mod.EventBusSubscriber(modid = LCAddon.MODID, bus = Mod.EventBusSubscriber.Bus.FORGE)
+    @Mod.EventBusSubscriber(modid = LCAddon.MODID, value = Dist.CLIENT, bus = Mod.EventBusSubscriber.Bus.FORGE)
     public static class EventsHandler{
-
+        @OnlyIn(Dist.CLIENT)
         @SubscribeEvent
         public static void OnPlayerEnterWorld(PlayerEvent.PlayerLoggedInEvent event){
             if (Minecraft.getInstance().player == null || event.getEntity() == Minecraft.getInstance().player){

@@ -18,10 +18,10 @@ import net.minecraftforge.client.event.EntityRenderersEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
 
-@Mod.EventBusSubscriber(modid = LCAddon.MODID, bus = Mod.EventBusSubscriber.Bus.MOD)
+
+@OnlyIn(Dist.CLIENT)
+@Mod.EventBusSubscriber(modid = LCAddon.MODID, value = Dist.CLIENT , bus = Mod.EventBusSubscriber.Bus.MOD)
 public class LCARenderers {
-
-
 
     @OnlyIn(Dist.CLIENT)
     @SubscribeEvent
